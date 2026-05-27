@@ -6435,7 +6435,7 @@
 {"text": "pull", "lemma": "pull", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "up", "lemma": "up", "upos": "ADP", "xpos": "RP", "feats": null}
 {"text": "skipping", "lemma": "skip", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
-{"text": "jogging", "lemma": "jogging", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
+{"text": "jogging", "lemma": "jog", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "push", "lemma": "push", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Inf"}
 {"text": "up", "lemma": "up", "upos": "ADP", "xpos": "RP", "feats": null}
 {"text": "f", "lemma": "for", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}

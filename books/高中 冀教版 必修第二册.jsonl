@@ -9454,7 +9454,7 @@
 {"text": "gymnastics", "lemma": "gymnastics", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "playing", "lemma": "playing", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "badminton", "lemma": "badminton", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "jogging", "lemma": "jogging", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
+{"text": "jogging", "lemma": "jog", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "cycling", "lemma": "cycling", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "jumping", "lemma": "jump", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "rope", "lemma": "rope", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -21040,7 +21040,7 @@
 {"text": "is", "lemma": "be", "upos": "AUX", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "luxury", "lemma": "luxury", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Weather", "lemma": "weather", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "permitting", "lemma": "permitting", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
+{"text": "permitting", "lemma": "permit", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "we", "lemma": "we", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Number=Plur|Person=1|PronType=Prs"}
 {"text": "'ll", "lemma": "will", "upos": "AUX", "xpos": "MD", "feats": "VerbForm=Fin"}
 {"text": "go", "lemma": "go", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}

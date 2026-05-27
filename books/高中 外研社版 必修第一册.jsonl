@@ -6091,7 +6091,7 @@
 {"text": "black", "lemma": "black", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "hair", "lemma": "hair", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
-{"text": "jogging", "lemma": "jogging", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
+{"text": "jogging", "lemma": "jog", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "has", "lemma": "have", "upos": "AUX", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "kept", "lemma": "keep", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part"}
 {"text": "her", "lemma": "her", "upos": "PRON", "xpos": "PRP", "feats": "Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs"}
@@ -21143,7 +21143,7 @@
 {"text": "jaw", "lemma": "jaw", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "beard", "lemma": "beard", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "skin", "lemma": "skin", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "jogging", "lemma": "jogging", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
+{"text": "jogging", "lemma": "jog", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "slim", "lemma": "slim", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "cheek", "lemma": "cheek", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "nation", "lemma": "nation", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -21661,7 +21661,7 @@
 {"text": "investigate", "lemma": "investigate", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "issue", "lemma": "issue", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "jaw", "lemma": "jaw", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "jogging", "lemma": "jogging", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
+{"text": "jogging", "lemma": "jog", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "journal", "lemma": "journal", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "judge", "lemma": "judge", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "junior", "lemma": "junior", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}

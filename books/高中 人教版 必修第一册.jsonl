@@ -10376,7 +10376,7 @@
 {"text": "alone", "lemma": "alone", "upos": "ADV", "xpos": "RB", "feats": "Degree=Pos"}
 {"text": "such", "lemma": "such", "upos": "ADJ", "xpos": "JJ", "feats": "ExtPos=ADP"}
 {"text": "as", "lemma": "as", "upos": "ADP", "xpos": "IN", "feats": null}
-{"text": "jogging", "lemma": "jogging", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
+{"text": "jogging", "lemma": "jog", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "or", "lemma": "or", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "walking", "lemma": "walk", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
 {"text": "Our", "lemma": "our", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs"}
