@@ -9,7 +9,6 @@
 {"text": "Video", "lemma": "video", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Lu", "lemma": "lu", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Xun", "lemma": "xun", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "decision", "lemma": "decision", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Facing", "lemma": "face", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -287,7 +286,6 @@
 {"text": "you", "lemma": "you", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Person=2|PronType=Prs"}
 {"text": "think", "lemma": "think", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "life", "lemma": "life", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "path", "lemma": "path", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "looks", "lemma": "look", "upos": "VERB", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "like", "lemma": "like", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -403,7 +401,6 @@
 {"text": "about", "lemma": "about", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "different", "lemma": "different", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "people", "lemma": "person", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "future", "lemma": "future", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Various", "lemma": "various", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "possibilities", "lemma": "possibility", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -490,7 +487,6 @@
 {"text": "doing", "lemma": "do", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "years", "lemma": "year", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "'", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "time", "lemma": "time", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Can", "lemma": "can", "upos": "AUX", "xpos": "MD", "feats": "VerbForm=Fin"}
 {"text": "we", "lemma": "we", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Number=Plur|Person=1|PronType=Prs"}
@@ -753,7 +749,6 @@
 {"text": "doctor", "lemma": "doctor", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "But", "lemma": "but", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "Doyle", "lemma": "doyle", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "main", "lemma": "main", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "ambition", "lemma": "ambition", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "was", "lemma": "be", "upos": "AUX", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
@@ -900,7 +895,6 @@
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "dead", "lemma": "dead", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "Doyle", "lemma": "doyle", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "many", "lemma": "many", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "historical", "lemma": "historical", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "novels", "lemma": "novel", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -948,7 +942,6 @@
 {"text": "What", "lemma": "what", "upos": "PRON", "xpos": "WP", "feats": "PronType=Int"}
 {"text": "was", "lemma": "be", "upos": "AUX", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "Doyle", "lemma": "doyle", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "main", "lemma": "main", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "writing", "lemma": "writing", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "ambition", "lemma": "ambition", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -969,7 +962,6 @@
 {"text": "relationship", "lemma": "relationship", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "between", "lemma": "between", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "one", "lemma": "one", "upos": "PRON", "xpos": "PRP", "feats": "Number=Sing|Person=3|PronType=Prs"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "plans", "lemma": "plan", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -1129,7 +1121,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Steve", "lemma": "steve", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Jobs", "lemma": "jobs", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "words", "lemma": "word", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "at", "lemma": "at", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -1231,7 +1222,6 @@
 {"text": "doing", "lemma": "do", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "years", "lemma": "year", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "'", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "time", "lemma": "time", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "He", "lemma": "he", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs"}
 {"text": "would", "lemma": "would", "upos": "AUX", "xpos": "MD", "feats": "VerbForm=Fin"}
@@ -1492,7 +1482,6 @@
 {"text": "talk", "lemma": "talk", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "about", "lemma": "about", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "David", "lemma": "david", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "life", "lemma": "life", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "using", "lemma": "use", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
 {"text": "different", "lemma": "different", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
@@ -1712,7 +1701,6 @@
 {"text": "at", "lemma": "at", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "my", "lemma": "my", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs"}
 {"text": "dad", "lemma": "dad", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "insurance", "lemma": "insurance", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "firm", "lemma": "firm", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Absolutely", "lemma": "absolutely", "upos": "ADV", "xpos": "RB", "feats": null}
@@ -2190,7 +2178,6 @@
 {"text": "was", "lemma": "be", "upos": "AUX", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "America", "lemma": "america", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "most", "lemma": "most", "upos": "ADV", "xpos": "RBS", "feats": "Degree=Sup"}
 {"text": "famous", "lemma": "famous", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "poets", "lemma": "poet", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -2278,7 +2265,6 @@
 {"text": "themes", "lemma": "theme", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Among", "lemma": "among", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Frost", "lemma": "frost", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "best", "lemma": "well", "upos": "ADV", "xpos": "RBS", "feats": "Degree=Sup"}
 {"text": "known", "lemma": "know", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
 {"text": "poems", "lemma": "poem", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -2305,7 +2291,6 @@
 {"text": "features", "lemma": "feature", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Frost", "lemma": "frost", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "poetry", "lemma": "poetry", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Have", "lemma": "have", "upos": "AUX", "xpos": "VBP", "feats": "Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin"}
 {"text": "you", "lemma": "you", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Person=2|PronType=Prs"}
@@ -2539,7 +2524,6 @@
 {"text": "see", "lemma": "see", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "one", "lemma": "one", "upos": "PRON", "xpos": "PRP", "feats": "Number=Sing|Person=3|PronType=Prs"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "mind", "lemma": "mind", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "images", "lemma": "image", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -2968,7 +2952,6 @@
 {"text": "is", "lemma": "be", "upos": "AUX", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "America", "lemma": "america", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "poems", "lemma": "poem", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "think", "lemma": "think", "upos": "VERB", "xpos": "VBP", "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin"}
@@ -3122,7 +3105,6 @@
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "how", "lemma": "how", "upos": "ADV", "xpos": "WRB", "feats": "PronType=Int"}
 {"text": "others", "lemma": "other", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "'", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "opinions", "lemma": "opinion", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "have", "lemma": "have", "upos": "AUX", "xpos": "VBP", "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "helped", "lemma": "help", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part"}
@@ -3182,7 +3164,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "city", "lemma": "city", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "history", "lemma": "history", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "attractions", "lemma": "attraction", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -3454,7 +3435,6 @@
 {"text": "to", "lemma": "to", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "each", "lemma": "each", "upos": "DET", "xpos": "DT", "feats": "ExtPos=PRON|PronType=Rcp"}
 {"text": "other", "lemma": "other", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "application", "lemma": "application", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "letters", "lemma": "letter", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "paying", "lemma": "pay", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
@@ -3813,7 +3793,6 @@
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "hope", "lemma": "hope", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Morrie", "lemma": "morrie", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "bravery", "lemma": "bravery", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "towards", "lemma": "towards", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -4192,7 +4171,6 @@
 {"text": "this", "lemma": "this", "upos": "DET", "xpos": "DT", "feats": "Number=Sing|PronType=Dem"}
 {"text": "book", "lemma": "book", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Morrie", "lemma": "morrie", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "reflections", "lemma": "reflection", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "on", "lemma": "on", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "love", "lemma": "love", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -4284,7 +4262,6 @@
 {"text": "could", "lemma": "could", "upos": "AUX", "xpos": "MD", "feats": "VerbForm=Fin"}
 {"text": "As", "lemma": "as", "upos": "SCONJ", "xpos": "IN", "feats": null}
 {"text": "Morrie", "lemma": "morrie", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "favourite", "lemma": "favourite", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "poet", "lemma": "poet", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Auden", "lemma": "auden", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
@@ -4395,7 +4372,6 @@
 {"text": "cry", "lemma": "cry", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "because", "lemma": "because", "upos": "SCONJ", "xpos": "IN", "feats": null}
 {"text": "Morrie", "lemma": "morrie", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "reflections", "lemma": "reflection", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "on", "lemma": "on", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "made", "lemma": "make", "upos": "VERB", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
@@ -4495,7 +4471,6 @@
 {"text": "understanding", "lemma": "understanding", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Auden", "lemma": "auden", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "words", "lemma": "word", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Love", "lemma": "love", "upos": "VERB", "xpos": "VBP", "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin"}
 {"text": "each", "lemma": "each", "upos": "DET", "xpos": "DT", "feats": "ExtPos=PRON|PronType=Rcp"}
@@ -4525,7 +4500,6 @@
 {"text": "evaluate", "lemma": "evaluate", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "other", "lemma": "other", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "people", "lemma": "person", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "opinions", "lemma": "opinion", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "make", "lemma": "make", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
@@ -4691,7 +4665,6 @@
 {"text": "so", "lemma": "so", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "was", "lemma": "be", "upos": "AUX", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "Aesop", "lemma": "aesop", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "Fables", "lemma": "fables", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "collection", "lemma": "collection", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -4766,7 +4739,6 @@
 {"text": "still", "lemma": "still", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "enjoy", "lemma": "enjoy", "upos": "VERB", "xpos": "VBP", "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "Aesop", "lemma": "aesop", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "Fables", "lemma": "fables", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Look", "lemma": "look", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "at", "lemma": "at", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -4778,7 +4750,6 @@
 {"text": "story", "lemma": "story", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "from", "lemma": "from", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Aesop", "lemma": "aesop", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "Fables", "lemma": "fables", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Use", "lemma": "use", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -4921,7 +4892,6 @@
 {"text": "With", "lemma": "with", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "my", "lemma": "my", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs"}
 {"text": "brother", "lemma": "brother", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "help", "lemma": "help", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "finally", "lemma": "finally", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "completed", "lemma": "complete", "upos": "VERB", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin"}
@@ -5227,7 +5197,6 @@
 {"text": "learn", "lemma": "learn", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "from", "lemma": "from", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Janet", "lemma": "janet", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "story", "lemma": "story", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Did", "lemma": "do", "upos": "AUX", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin"}
 {"text": "You", "lemma": "you", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Person=2|PronType=Prs"}
@@ -5399,7 +5368,6 @@
 {"text": "Happiness", "lemma": "happiness", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "The", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "children", "lemma": "child", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "adventure", "lemma": "adventure", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "takes", "lemma": "take", "upos": "VERB", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "them", "lemma": "they", "upos": "PRON", "xpos": "PRP", "feats": "Case=Acc|Number=Plur|Person=3|PronType=Prs"}
@@ -5688,7 +5656,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Loving", "lemma": "loving", "upos": "ADJ", "xpos": "NNP", "feats": "Degree=Pos"}
 {"text": "One", "lemma": "one", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "Parents", "lemma": "parent", "upos": "PROPN", "xpos": "NNPS", "feats": "Number=Plur"}
 {"text": "Here", "lemma": "here", "upos": "ADV", "xpos": "RB", "feats": "PronType=Dem"}
 {"text": "are", "lemma": "be", "upos": "AUX", "xpos": "VBP", "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"}
@@ -5827,7 +5794,6 @@
 {"text": "daughter", "lemma": "daughter", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "has", "lemma": "have", "upos": "AUX", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "wanted", "lemma": "want", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "pet", "lemma": "pet", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "bird", "lemma": "bird", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "for", "lemma": "for", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -5885,7 +5851,6 @@
 {"text": "know", "lemma": "know", "upos": "VERB", "xpos": "VBP", "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin"}
 {"text": "it", "lemma": "it", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs"}
 {"text": "'s", "lemma": "be", "upos": "AUX", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "bird", "lemma": "bird", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Well", "lemma": "well", "upos": "INTJ", "xpos": "UH", "feats": null}
 {"text": "are", "lemma": "be", "upos": "AUX", "xpos": "VBP", "feats": "Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin"}
@@ -5974,7 +5939,6 @@
 {"text": "girl", "lemma": "girl", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "who", "lemma": "who", "upos": "PRON", "xpos": "WP", "feats": "PronType=Rel"}
 {"text": "carries", "lemma": "carry", "upos": "VERB", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
-{"text": "'S", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "dove", "lemma": "dove", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "her", "lemma": "her", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs"}
@@ -6003,7 +5967,6 @@
 {"text": "LITTLE", "lemma": "little", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "GIRL", "lemma": "girl", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "into", "lemma": "into", "upos": "ADP", "xpos": "IN", "feats": null}
-{"text": "'S", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "arms", "lemma": "arm", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Come", "lemma": "come", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "along", "lemma": "along", "upos": "ADV", "xpos": "RB", "feats": null}
@@ -6088,7 +6051,6 @@
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "LITTLE", "lemma": "little", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "GIRL", "lemma": "girl", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'S", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "hands", "lemma": "hand", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "She", "lemma": "she", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs"}
 {"text": "resists", "lemma": "resist", "upos": "VERB", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
@@ -6448,7 +6410,6 @@
 {"text": "story", "lemma": "story", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "about", "lemma": "about", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "adventures", "lemma": "adventure", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "as", "lemma": "as", "upos": "SCONJ", "xpos": "IN", "feats": null}
 {"text": "they", "lemma": "they", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Number=Plur|Person=3|PronType=Prs"}
@@ -6591,7 +6552,6 @@
 {"text": "to", "lemma": "to", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "neighbour", "lemma": "neighbour", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "little", "lemma": "little", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "girl", "lemma": "girl", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "curing", "lemma": "cure", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
@@ -6804,7 +6764,6 @@
 {"text": "to", "lemma": "to", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "each", "lemma": "each", "upos": "DET", "xpos": "DT", "feats": "ExtPos=PRON|PronType=Rcp"}
 {"text": "other", "lemma": "other", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "summaries", "lemma": "summary", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "share", "lemma": "share", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
@@ -7102,7 +7061,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "them", "lemma": "they", "upos": "PRON", "xpos": "PRP", "feats": "Case=Acc|Number=Plur|Person=3|PronType=Prs"}
 {"text": "Dunhuang", "lemma": "dunhuang", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "long", "lemma": "long", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "glorious", "lemma": "glorious", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
@@ -7141,7 +7099,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "city", "lemma": "city", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "famous", "lemma": "famous", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "caves", "lemma": "cave", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -7426,7 +7383,6 @@
 {"text": "is", "lemma": "be", "upos": "AUX", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "only", "lemma": "only", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "stone", "lemma": "stone", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "throw", "lemma": "throw", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "from", "lemma": "from", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "here", "lemma": "here", "upos": "ADV", "xpos": "RB", "feats": "PronType=Dem"}
@@ -8035,10 +7991,8 @@
 {"text": "Rail", "lemma": "rail", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "HSR", "lemma": "hsr", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "hina", "lemma": "hina", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "In", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "HSR", "lemma": "hsr", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "service", "lemma": "service", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "started", "lemma": "start", "upos": "VERB", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
@@ -8448,7 +8402,6 @@
 {"text": "English", "lemma": "english", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Qian", "lemma": "qian", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "great", "lemma": "great", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "achievements", "lemma": "achievement", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "was", "lemma": "be", "upos": "AUX", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
@@ -8670,7 +8623,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "support", "lemma": "support", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Liang", "lemma": "liang", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "most", "lemma": "most", "upos": "ADV", "xpos": "RBS", "feats": "Degree=Sup"}
 {"text": "memorable", "lemma": "memorable", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "experience", "lemma": "experience", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -8797,7 +8749,6 @@
 {"text": "understand", "lemma": "understand", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "your", "lemma": "your", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Person=2|Poss=Yes|PronType=Prs"}
 {"text": "partner", "lemma": "partner", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "ideas", "lemma": "idea", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "comment", "lemma": "comment", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
@@ -9034,7 +8985,6 @@
 {"text": "loved", "lemma": "love", "upos": "VERB", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin"}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "movie", "lemma": "movie", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "theme", "lemma": "theme", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "tune", "lemma": "tune", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Song", "lemma": "song", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
@@ -9107,7 +9057,6 @@
 {"text": "to", "lemma": "to", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "were", "lemma": "be", "upos": "AUX", "xpos": "VBD", "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "Homer", "lemma": "homer", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "epic", "lemma": "epic", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "poems", "lemma": "poem", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Records", "lemma": "record", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -9132,7 +9081,6 @@
 {"text": "genius", "lemma": "genius", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "Grand", "lemma": "grand", "upos": "ADJ", "xpos": "NNP", "feats": "Degree=Pos"}
 {"text": "Historian", "lemma": "historian", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Sima", "lemma": "sima", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
@@ -9418,7 +9366,6 @@
 {"text": "that", "lemma": "that", "upos": "SCONJ", "xpos": "IN", "feats": null}
 {"text": "here", "lemma": "here", "upos": "ADV", "xpos": "RB", "feats": "PronType=Dem"}
 {"text": "people", "lemma": "person", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "knowledge", "lemma": "knowledge", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Chinese", "lemma": "chinese", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
@@ -9880,7 +9827,6 @@
 {"text": "captures", "lemma": "capture", "upos": "VERB", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "New", "lemma": "new", "upos": "ADJ", "xpos": "NNP", "feats": "Degree=Pos"}
 {"text": "York", "lemma": "york", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "loud", "lemma": "loud", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "spirit", "lemma": "spirit", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "As", "lemma": "as", "upos": "SCONJ", "xpos": "IN", "feats": null}
@@ -10355,7 +10301,6 @@
 {"text": "like", "lemma": "like", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "years", "lemma": "year", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "'", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "time", "lemma": "time", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Read", "lemma": "read", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -11114,7 +11059,6 @@
 {"text": "to", "lemma": "to", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Zhang", "lemma": "zhang", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Yue", "lemma": "yue", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "success", "lemma": "success", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "What", "lemma": "what", "upos": "DET", "xpos": "WDT", "feats": "PronType=Int"}
 {"text": "other", "lemma": "other", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
@@ -11331,7 +11275,6 @@
 {"text": "improve", "lemma": "improve", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "local", "lemma": "local", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "people", "lemma": "person", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "welfare", "lemma": "welfare", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "However", "lemma": "however", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "some", "lemma": "some", "upos": "DET", "xpos": "DT", "feats": "PronType=Ind"}
@@ -11542,7 +11485,6 @@
 {"text": "rating", "lemma": "rating", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "methods", "lemma": "method", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "People", "lemma": "person", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "activities", "lemma": "activity", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "such", "lemma": "such", "upos": "ADJ", "xpos": "JJ", "feats": "ExtPos=ADP"}
 {"text": "as", "lemma": "as", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -12173,7 +12115,6 @@
 {"text": "ideas", "lemma": "idea", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Read", "lemma": "read", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "Leo", "lemma": "leo", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "travel", "lemma": "travel", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "notes", "lemma": "note", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
@@ -12241,7 +12182,6 @@
 {"text": "opening", "lemma": "opening", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "at", "lemma": "at", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Bird", "lemma": "bird", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "Nest", "lemma": "nest", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Absolutely", "lemma": "absolutely", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "stunning", "lemma": "stunning", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
@@ -12286,7 +12226,6 @@
 {"text": "at", "lemma": "at", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Chef", "lemma": "chef", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Cui", "lemma": "cui", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "restaurant", "lemma": "restaurant", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "The", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "Chinese", "lemma": "chinese", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
@@ -12314,7 +12253,6 @@
 {"text": "differences", "lemma": "difference", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "between", "lemma": "between", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Leo", "lemma": "leo", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "trips", "lemma": "trip", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Which", "lemma": "which", "upos": "DET", "xpos": "WDT", "feats": "PronType=Int"}
 {"text": "one", "lemma": "one", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -12990,7 +12928,6 @@
 {"text": "It", "lemma": "it", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs"}
 {"text": "meets", "lemma": "meet", "upos": "VERB", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "people", "lemma": "person", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "increasing", "lemma": "increase", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
 {"text": "demand", "lemma": "demand", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "for", "lemma": "for", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -13099,7 +13036,6 @@
 {"text": "as", "lemma": "as", "upos": "SCONJ", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "world", "lemma": "world", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "economy", "lemma": "economy", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "becomes", "lemma": "become", "upos": "VERB", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "ever", "lemma": "ever", "upos": "ADV", "xpos": "RB", "feats": null}
@@ -13146,7 +13082,6 @@
 {"text": "Present", "lemma": "present", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "your", "lemma": "your", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Person=2|Poss=Yes|PronType=Prs"}
 {"text": "group", "lemma": "group", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "ideas", "lemma": "idea", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "to", "lemma": "to", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -13158,7 +13093,6 @@
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "other", "lemma": "other", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "groups", "lemma": "group", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "'", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "ideas", "lemma": "idea", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "were", "lemma": "be", "upos": "AUX", "xpos": "VBD", "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "different", "lemma": "different", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
@@ -13192,7 +13126,6 @@
 {"text": "corresponding", "lemma": "corresponding", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
 {"text": "information", "lemma": "information", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Non", "lemma": "non", "upos": "ADV", "xpos": "RB", "feats": null}
-{"text": "-cash", "lemma": "-cash", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "payments", "lemma": "payment", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "are", "lemma": "be", "upos": "AUX", "xpos": "VBP", "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "becoming", "lemma": "become", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
@@ -13228,7 +13161,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "this", "lemma": "this", "upos": "PRON", "xpos": "DT", "feats": "Number=Sing|PronType=Dem"}
 {"text": "Non", "lemma": "non", "upos": "ADV", "xpos": "RB", "feats": null}
-{"text": "-cash", "lemma": "-cash", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "payment", "lemma": "payment", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "is", "lemma": "be", "upos": "AUX", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -13461,7 +13393,6 @@
 {"text": "to", "lemma": "to", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "each", "lemma": "each", "upos": "DET", "xpos": "DT", "feats": "ExtPos=PRON|PronType=Rcp"}
 {"text": "other", "lemma": "other", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "essays", "lemma": "essay", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "share", "lemma": "share", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
@@ -13922,7 +13853,6 @@
 {"text": "power", "lemma": "power", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "The", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "Maya", "lemma": "maya", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "understanding", "lemma": "understanding", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "mathematics", "lemma": "mathematics", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -14526,7 +14456,6 @@
 {"text": "is", "lemma": "be", "upos": "AUX", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "author", "lemma": "author", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "purpose", "lemma": "purpose", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "in", "lemma": "in", "upos": "SCONJ", "xpos": "IN", "feats": null}
 {"text": "starting", "lemma": "start", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
@@ -14571,7 +14500,6 @@
 {"text": "development", "lemma": "development", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "today", "lemma": "today", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "society", "lemma": "society", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Which", "lemma": "which", "upos": "PRON", "xpos": "WDT", "feats": "PronType=Int"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -15238,7 +15166,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "body", "lemma": "body", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "activities", "lemma": "activity", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Interestingly", "lemma": "interestingly", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "it", "lemma": "it", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs"}
@@ -15285,7 +15212,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "body", "lemma": "body", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "energy", "lemma": "energy", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "more", "lemma": "more", "upos": "ADJ", "xpos": "JJR", "feats": "Degree=Cmp"}
 {"text": "than", "lemma": "than", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -15401,7 +15327,6 @@
 {"text": "Theories", "lemma": "theory", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Dr", "lemma": "dr", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Long", "lemma": "long", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "comments", "lemma": "comment", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Recent", "lemma": "recent", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "studies", "lemma": "study", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -15673,7 +15598,6 @@
 {"text": "to", "lemma": "to", "upos": "PART", "xpos": "TO", "feats": null}
 {"text": "explore", "lemma": "explore", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "Earth", "lemma": "earth", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "furthest", "lemma": "furthest", "upos": "ADJ", "xpos": "JJS", "feats": "Degree=Sup"}
 {"text": "corners", "lemma": "corner", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Among", "lemma": "among", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -15731,7 +15655,6 @@
 {"text": "do", "lemma": "do", "upos": "VERB", "xpos": "VBP", "feats": "Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Earth", "lemma": "earth", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "own", "lemma": "own", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "sea", "lemma": "sea", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "bed", "lemma": "bed", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -15888,7 +15811,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "planet", "lemma": "planet", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "fish", "lemma": "fish", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "In", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "these", "lemma": "this", "upos": "DET", "xpos": "DT", "feats": "Number=Plur|PronType=Dem"}
@@ -15924,7 +15846,6 @@
 {"text": "below", "lemma": "below", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "ocean", "lemma": "ocean", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "surface", "lemma": "surface", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "growing", "lemma": "grow", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
 {"text": "at", "lemma": "at", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -16047,7 +15968,6 @@
 {"text": "these", "lemma": "this", "upos": "PRON", "xpos": "DT", "feats": "Number=Plur|PronType=Dem"}
 {"text": "is", "lemma": "be", "upos": "AUX", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "discovery", "lemma": "discovery", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "ice", "lemma": "ice", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -16065,7 +15985,6 @@
 {"text": "In", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "addition", "lemma": "addition", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "underwater", "lemma": "underwater", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "vessels", "lemma": "vessel", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "such", "lemma": "such", "upos": "ADJ", "xpos": "JJ", "feats": "ExtPos=ADP"}
@@ -16103,7 +16022,6 @@
 {"text": "alongside", "lemma": "alongside", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "world", "lemma": "world", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "top", "lemma": "top", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "ocean", "lemma": "ocean", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "explorers", "lemma": "explorer", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -16188,7 +16106,6 @@
 {"text": "up", "lemma": "up", "upos": "ADP", "xpos": "RP", "feats": null}
 {"text": "our", "lemma": "our", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs"}
 {"text": "planet", "lemma": "planet", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "final", "lemma": "final", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "frontier", "lemma": "frontier", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Humankind", "lemma": "humankind", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
@@ -16240,7 +16157,6 @@
 {"text": "to", "lemma": "to", "upos": "PART", "xpos": "TO", "feats": null}
 {"text": "explore", "lemma": "explore", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "Earth", "lemma": "earth", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "furthest", "lemma": "furthest", "upos": "ADJ", "xpos": "JJS", "feats": "Degree=Sup"}
 {"text": "corners", "lemma": "corner", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Ocean", "lemma": "ocean", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
@@ -16615,7 +16531,6 @@
 {"text": "to", "lemma": "to", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "each", "lemma": "each", "upos": "DET", "xpos": "DT", "feats": "ExtPos=PRON|PronType=Rcp"}
 {"text": "other", "lemma": "other", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "articles", "lemma": "article", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "share", "lemma": "share", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
@@ -16658,7 +16573,6 @@
 {"text": "think", "lemma": "think", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Proust", "lemma": "proust", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "view", "lemma": "view", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "on", "lemma": "on", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -16852,7 +16766,6 @@
 {"text": "events", "lemma": "event", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "space", "lemma": "space", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "programme", "lemma": "programme", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Add", "lemma": "add", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|Person=2|VerbForm=Fin"}
@@ -16866,7 +16779,6 @@
 {"text": "know", "lemma": "know", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "about", "lemma": "about", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "future", "lemma": "future", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "plans", "lemma": "plan", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "for", "lemma": "for", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -16882,7 +16794,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "nation", "lemma": "nation", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "plan", "lemma": "plan", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "for", "lemma": "for", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "permanent", "lemma": "permanent", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
@@ -16897,7 +16808,6 @@
 {"text": "lunar", "lemma": "lunar", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "probe", "lemma": "probe", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Chang", "lemma": "chang", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'e", "lemma": "'e", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "which", "lemma": "which", "upos": "PRON", "xpos": "WDT", "feats": "PronType=Rel"}
 {"text": "made", "lemma": "make", "upos": "VERB", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "soft", "lemma": "soft", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
@@ -16922,7 +16832,6 @@
 {"text": "Centre", "lemma": "centre", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "sending", "lemma": "send", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "first", "lemma": "first", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos|NumForm=Word|NumType=Ord"}
 {"text": "astronaut", "lemma": "astronaut", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "into", "lemma": "into", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -17126,7 +17035,6 @@
 {"text": "wrong", "lemma": "wrong", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "With", "lemma": "with", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Armstrong", "lemma": "armstrong", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "now", "lemma": "now", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "famous", "lemma": "famous", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "words", "lemma": "word", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -17164,7 +17072,6 @@
 {"text": "used", "lemma": "use", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
 {"text": "by", "lemma": "by", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "today", "lemma": "today", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "average", "lemma": "average", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "school", "lemma": "school", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "students", "lemma": "student", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -17435,7 +17342,6 @@
 {"text": "shadow", "lemma": "shadow", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "on", "lemma": "on", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "people", "lemma": "person", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "hearts", "lemma": "heart", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Space", "lemma": "space", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
@@ -17559,7 +17465,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "shuttle", "lemma": "shuttle", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "components", "lemma": "component", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "were", "lemma": "be", "upos": "AUX", "xpos": "VBD", "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "redesigned", "lemma": "redesign", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
@@ -17647,7 +17552,6 @@
 {"text": "them", "lemma": "they", "upos": "PRON", "xpos": "PRP", "feats": "Case=Acc|Number=Plur|Person=3|PronType=Prs"}
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "humanity", "lemma": "humanity", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "greatest", "lemma": "great", "upos": "ADJ", "xpos": "JJS", "feats": "Degree=Sup"}
 {"text": "journey", "lemma": "journey", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -17787,7 +17691,6 @@
 {"text": "was", "lemma": "be", "upos": "AUX", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "teacher", "lemma": "teacher", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "mission", "lemma": "mission", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "on", "lemma": "on", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "board", "lemma": "board", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -17828,7 +17731,6 @@
 {"text": "What", "lemma": "what", "upos": "PRON", "xpos": "WP", "feats": "PronType=Int"}
 {"text": "were", "lemma": "be", "upos": "AUX", "xpos": "VBD", "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "people", "lemma": "person", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "feelings", "lemma": "feeling", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "before", "lemma": "before", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
@@ -18108,7 +18010,6 @@
 {"text": "any", "lemma": "any", "upos": "DET", "xpos": "DT", "feats": "PronType=Ind"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Saturn", "lemma": "saturn", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "moons", "lemma": "moon", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "In", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "its", "lemma": "its", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs"}
@@ -18952,7 +18853,6 @@
 {"text": "Horsehead", "lemma": "horsehead", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "The", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "Cat", "lemma": "cat", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "Eye", "lemma": "eye", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Look", "lemma": "look", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|Person=2|VerbForm=Fin"}
 {"text": "at", "lemma": "at", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -19327,7 +19227,6 @@
 {"text": "operates", "lemma": "operate", "upos": "VERB", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "world", "lemma": "world", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "largest", "lemma": "large", "upos": "ADJ", "xpos": "JJS", "feats": "Degree=Sup"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "most", "lemma": "most", "upos": "ADV", "xpos": "RBS", "feats": "Degree=Sup"}
@@ -19701,7 +19600,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Humphry", "lemma": "humphry", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Davy", "lemma": "davy", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "quote", "lemma": "quote", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "whether", "lemma": "whether", "upos": "SCONJ", "xpos": "IN", "feats": null}
@@ -19908,7 +19806,6 @@
 {"text": "push", "lemma": "push", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "against", "lemma": "against", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "astronauts", "lemma": "astronaut", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "'", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "bones", "lemma": "bone", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "muscles", "lemma": "muscle", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -20116,7 +20013,6 @@
 {"text": "to", "lemma": "to", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "each", "lemma": "each", "upos": "DET", "xpos": "DT", "feats": "ExtPos=PRON|PronType=Rcp"}
 {"text": "other", "lemma": "other", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "journal", "lemma": "journal", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "entries", "lemma": "entrie", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
@@ -20765,13 +20661,11 @@
 {"text": "arguments", "lemma": "argument", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "your", "lemma": "your", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Person=2|Poss=Yes|PronType=Prs"}
 {"text": "group", "lemma": "group", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "conclusion", "lemma": "conclusion", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Present", "lemma": "present", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "Deliver", "lemma": "deliver", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "your", "lemma": "your", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Person=2|Poss=Yes|PronType=Prs"}
 {"text": "group", "lemma": "group", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "speech", "lemma": "speech", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "to", "lemma": "to", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -20994,7 +20888,6 @@
 {"text": "have", "lemma": "have", "upos": "VERB", "xpos": "VBP", "feats": "Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin"}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "interviewee", "lemma": "interviewee", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "consent", "lemma": "consent", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "You", "lemma": "you", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Person=2|PronType=Prs"}
 {"text": "may", "lemma": "may", "upos": "AUX", "xpos": "MD", "feats": "VerbForm=Fin"}
@@ -21327,7 +21220,6 @@
 {"text": "first", "lemma": "first", "upos": "ADV", "xpos": "RB", "feats": "Degree=Pos|NumForm=Word|NumType=Ord"}
 {"text": "caught", "lemma": "catch", "upos": "VERB", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "people", "lemma": "person", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "attention", "lemma": "attention", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "why", "lemma": "why", "upos": "ADV", "xpos": "WRB", "feats": "PronType=Int"}
 {"text": "it", "lemma": "it", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs"}
@@ -21617,7 +21509,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "come", "lemma": "come", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "one", "lemma": "one", "upos": "PRON", "xpos": "PRP", "feats": "Number=Sing|Person=3|PronType=Prs"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "way", "lemma": "way", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "be", "lemma": "be", "upos": "AUX", "xpos": "VB", "feats": "VerbForm=Fin"}
 {"text": "forced", "lemma": "force", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
@@ -21629,7 +21520,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "from", "lemma": "from", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "one", "lemma": "one", "upos": "PRON", "xpos": "PRP", "feats": "Number=Sing|Person=3|PronType=Prs"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "book", "lemma": "book", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "insight", "lemma": "insight", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "into", "lemma": "into", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -21710,7 +21600,6 @@
 {"text": "doctor", "lemma": "doctor", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "But", "lemma": "but", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "Doyle", "lemma": "doyle", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "main", "lemma": "main", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "ambition", "lemma": "ambition", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "was", "lemma": "be", "upos": "AUX", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
@@ -21879,7 +21768,6 @@
 {"text": "published", "lemma": "publish", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Beeton", "lemma": "beeton", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "Christmas", "lemma": "christmas", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Annual", "lemma": "annual", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -21893,7 +21781,6 @@
 {"text": "after", "lemma": "after", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "character", "lemma": "character", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "death", "lemma": "death", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "The", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -21919,7 +21806,6 @@
 {"text": "Empty", "lemma": "empty", "upos": "ADJ", "xpos": "NNP", "feats": "Degree=Pos"}
 {"text": "House", "lemma": "house", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Doyle", "lemma": "doyle", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "many", "lemma": "many", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "historical", "lemma": "historical", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "novels", "lemma": "novel", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -21997,7 +21883,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "from", "lemma": "from", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "one", "lemma": "one", "upos": "PRON", "xpos": "PRP", "feats": "Number=Sing|Person=3|PronType=Prs"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "book", "lemma": "book", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "to", "lemma": "to", "upos": "PART", "xpos": "TO", "feats": null}
 {"text": "copy", "lemma": "copy", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
@@ -22137,7 +22022,6 @@
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Robert", "lemma": "robert", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Frost", "lemma": "frost", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "book", "lemma": "book", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Mountain", "lemma": "mountain", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Interval", "lemma": "interval", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
@@ -23190,7 +23074,6 @@
 {"text": "fully", "lemma": "fully", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "enjoy", "lemma": "enjoy", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "one", "lemma": "one", "upos": "PRON", "xpos": "PRP", "feats": "Number=Sing|Person=3|PronType=Prs"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "life", "lemma": "life", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "eg", "lemma": "e.g.", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Working", "lemma": "work", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
@@ -23198,7 +23081,6 @@
 {"text": "teacher", "lemma": "teacher", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "rural", "lemma": "rural", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "areas", "lemma": "area", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "for", "lemma": "for", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -23544,7 +23426,6 @@
 {"text": "tail", "lemma": "tail", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "The", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "shark", "lemma": "shark", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "head", "lemma": "head", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "was", "lemma": "be", "upos": "AUX", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "out", "lemma": "out", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -23582,7 +23463,6 @@
 {"text": "onto", "lemma": "onto", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "shark", "lemma": "shark", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "head", "lemma": "head", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "at", "lemma": "at", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "spot", "lemma": "spot", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -24242,7 +24122,6 @@
 {"text": "also", "lemma": "also", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "say", "lemma": "say", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "Dunhuang", "lemma": "dunhuang", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "long", "lemma": "long", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "glorious", "lemma": "glorious", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
@@ -24892,7 +24771,6 @@
 {"text": "North", "lemma": "north", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "west", "lemma": "west", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "Gansu", "lemma": "gansu", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Province", "lemma": "province", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "When", "lemma": "when", "upos": "ADV", "xpos": "WRB", "feats": "PronType=Int"}
@@ -24928,7 +24806,6 @@
 {"text": "to", "lemma": "to", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "were", "lemma": "be", "upos": "AUX", "xpos": "VBD", "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "Homer", "lemma": "homer", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "epic", "lemma": "epic", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "poems", "lemma": "poem", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Learning", "lemma": "learning", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
@@ -25085,7 +24962,6 @@
 {"text": "information", "lemma": "information", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Cao", "lemma": "cao", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Xueqin", "lemma": "xueqin", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "Dream", "lemma": "dream", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -25106,7 +24982,6 @@
 {"text": "considered", "lemma": "consider", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "Great", "lemma": "great", "upos": "ADJ", "xpos": "NNP", "feats": "Degree=Pos"}
 {"text": "Classical", "lemma": "classical", "upos": "ADJ", "xpos": "NNP", "feats": "Degree=Pos"}
 {"text": "Novels", "lemma": "novels", "upos": "PROPN", "xpos": "NNPS", "feats": "Number=Plur"}
@@ -25122,7 +24997,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "writer", "lemma": "writer", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "family", "lemma": "family", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "during", "lemma": "during", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -25284,7 +25158,6 @@
 {"text": "Understanding", "lemma": "understand", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "relationship", "lemma": "relationship", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "with", "lemma": "with", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -25414,7 +25287,6 @@
 {"text": "precept", "lemma": "precept", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "for", "lemma": "for", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "diplomacy", "lemma": "diplomacy", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Deng", "lemma": "deng", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Xiaoping", "lemma": "xiaoping", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
@@ -25440,7 +25312,6 @@
 {"text": "principle", "lemma": "principle", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "for", "lemma": "for", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "diplomacy", "lemma": "diplomacy", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "But", "lemma": "but", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "for", "lemma": "for", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -25516,7 +25387,6 @@
 {"text": "country", "lemma": "country", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "about", "lemma": "about", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "relations", "lemma": "relation", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "with", "lemma": "with", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -25847,7 +25717,6 @@
 {"text": "is", "lemma": "be", "upos": "AUX", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "taking", "lemma": "take", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "extended", "lemma": "extend", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
 {"text": "hand", "lemma": "hand", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Adaptation", "lemma": "adaptation", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -26426,7 +26295,6 @@
 {"text": "is", "lemma": "be", "upos": "AUX", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "public", "lemma": "public", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "response", "lemma": "response", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "to", "lemma": "to", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "our", "lemma": "our", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs"}
@@ -26792,7 +26660,6 @@
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "his", "lemma": "his", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs"}
 {"text": "family", "lemma": "family", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "meals", "lemma": "meal", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "each", "lemma": "each", "upos": "DET", "xpos": "DT", "feats": "PronType=Tot"}
 {"text": "day", "lemma": "day", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -26938,7 +26805,6 @@
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "rich", "lemma": "rich", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "heiress", "lemma": "heiress", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "heart", "lemma": "heart", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Her", "lemma": "her", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs"}
 {"text": "only", "lemma": "only", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
@@ -27331,7 +27197,6 @@
 {"text": "to", "lemma": "to", "upos": "PART", "xpos": "TO", "feats": null}
 {"text": "take", "lemma": "take", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "Grandet", "lemma": "grandet", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "orders", "lemma": "order", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "went", "lemma": "go", "upos": "VERB", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "on", "lemma": "on", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -27596,7 +27461,6 @@
 {"text": "say", "lemma": "say", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "at", "lemma": "at", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "something", "lemma": "something", "upos": "PRON", "xpos": "NN", "feats": "Number=Sing|PronType=Ind"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "peak", "lemma": "peak", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "fall", "lemma": "fall", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "into", "lemma": "into", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -27772,7 +27636,6 @@
 {"text": "refused", "lemma": "refuse", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part"}
 {"text": "to", "lemma": "to", "upos": "PART", "xpos": "TO", "feats": null}
 {"text": "accept", "lemma": "accept", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "theory", "lemma": "theory", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "it", "lemma": "it", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs"}
 {"text": "proves", "lemma": "prove", "upos": "VERB", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
@@ -28290,7 +28153,6 @@
 {"text": "In", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "addition", "lemma": "addition", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "underwater", "lemma": "underwater", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "vessels", "lemma": "vessel", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "such", "lemma": "such", "upos": "ADJ", "xpos": "JJ", "feats": "ExtPos=ADP"}
@@ -28328,7 +28190,6 @@
 {"text": "alongside", "lemma": "alongside", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "world", "lemma": "world", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "top", "lemma": "top", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "ocean", "lemma": "ocean", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "explorers", "lemma": "explorer", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -28365,7 +28226,6 @@
 {"text": "information", "lemma": "information", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "The", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "manned", "lemma": "manned", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
 {"text": "deep", "lemma": "deep", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "sea", "lemma": "sea", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -28409,7 +28269,6 @@
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "Pacific", "lemma": "pacific", "upos": "ADJ", "xpos": "NNP", "feats": "Degree=Pos"}
 {"text": "Ocean", "lemma": "ocean", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "Mariana", "lemma": "mariana", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Trench", "lemma": "trench", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Thousands", "lemma": "thousand", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -28444,7 +28303,6 @@
 {"text": "Warrior", "lemma": "warrior", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "is", "lemma": "be", "upos": "AUX", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "China", "lemma": "china", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "deep", "lemma": "deep", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "sea", "lemma": "sea", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "submersible", "lemma": "submersible", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -28541,7 +28399,6 @@
 {"text": "up", "lemma": "up", "upos": "ADP", "xpos": "RP", "feats": null}
 {"text": "our", "lemma": "our", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs"}
 {"text": "planet", "lemma": "planet", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "final", "lemma": "final", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "frontier", "lemma": "frontier", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "We", "lemma": "we", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Number=Plur|Person=1|PronType=Prs"}
@@ -28632,7 +28489,6 @@
 {"text": "explore", "lemma": "explore", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "our", "lemma": "our", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs"}
 {"text": "planet", "lemma": "planet", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "final", "lemma": "final", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "frontier", "lemma": "frontier", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Learning", "lemma": "learning", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
@@ -28654,7 +28510,6 @@
 {"text": "majority", "lemma": "majority", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Earth", "lemma": "earth", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "oceans", "lemma": "ocean", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "remote", "lemma": "remote", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
@@ -28986,11 +28841,9 @@
 {"text": "accustomed", "lemma": "accustom", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
 {"text": "to", "lemma": "to", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "one", "lemma": "one", "upos": "PRON", "xpos": "PRP", "feats": "Number=Sing|Person=3|PronType=Prs"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "heart", "lemma": "heart", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "one", "lemma": "one", "upos": "PRON", "xpos": "PRP", "feats": "Number=Sing|Person=3|PronType=Prs"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "mouth", "lemma": "mouth", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "take", "lemma": "take", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Fin"}
 {"text": "off", "lemma": "off", "upos": "ADP", "xpos": "RP", "feats": null}
@@ -29051,11 +28904,9 @@
 {"text": "go", "lemma": "go", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "wrong", "lemma": "wrong", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "one", "lemma": "one", "upos": "PRON", "xpos": "PRP", "feats": "Number=Sing|Person=3|PronType=Prs"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "heart", "lemma": "heart", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "one", "lemma": "one", "upos": "PRON", "xpos": "PRP", "feats": "Number=Sing|Person=3|PronType=Prs"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "mouth", "lemma": "mouth", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "state", "lemma": "state", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "of", "lemma": "of", "upos": "SCONJ", "xpos": "IN", "feats": null}
@@ -29078,7 +28929,6 @@
 {"text": "strange", "lemma": "strange", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "With", "lemma": "with", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Armstrong", "lemma": "armstrong", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "now", "lemma": "now", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "famous", "lemma": "famous", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "words", "lemma": "word", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -29119,7 +28969,6 @@
 {"text": "mankind", "lemma": "mankind", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Neil", "lemma": "neil", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Armstrong", "lemma": "armstrong", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "quote", "lemma": "quote", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "should", "lemma": "should", "upos": "AUX", "xpos": "MD", "feats": "VerbForm=Fin"}
 {"text": "have", "lemma": "have", "upos": "AUX", "xpos": "VB", "feats": "VerbForm=Inf"}
@@ -29300,7 +29149,6 @@
 {"text": "shadow", "lemma": "shadow", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "on", "lemma": "on", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "people", "lemma": "person", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "hearts", "lemma": "heart", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "cast", "lemma": "cast", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "shadow", "lemma": "shadow", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -29318,7 +29166,6 @@
 {"text": "eg", "lemma": "e.g.", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "Her", "lemma": "her", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs"}
 {"text": "father", "lemma": "father", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "illness", "lemma": "illness", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "cast", "lemma": "cast", "upos": "VERB", "xpos": "VB", "feats": "Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "shadow", "lemma": "shadow", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -29810,7 +29657,6 @@
 {"text": "Reining", "lemma": "reining", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Age", "lemma": "age", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Humankind", "lemma": "humankind", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "migration", "lemma": "migration", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "would", "lemma": "would", "upos": "AUX", "xpos": "MD", "feats": "VerbForm=Fin"}
 {"text": "undergo", "lemma": "undergo", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
@@ -29838,7 +29684,6 @@
 {"text": "counter", "lemma": "counter", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "planet", "lemma": "planet", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "movement", "lemma": "movement", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Second", "lemma": "second", "upos": "ADV", "xpos": "RB", "feats": "Degree=Pos|NumForm=Word|NumType=Ord"}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -29960,7 +29805,6 @@
 {"text": "into", "lemma": "into", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "Earth", "lemma": "earth", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "night", "lemma": "night", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Here", "lemma": "here", "upos": "ADV", "xpos": "RB", "feats": "PronType=Dem"}
 {"text": "there", "lemma": "there", "upos": "PRON", "xpos": "EX", "feats": null}
@@ -30418,7 +30262,6 @@
 {"text": "make", "lemma": "make", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "up", "lemma": "up", "upos": "ADP", "xpos": "RP", "feats": null}
 {"text": "one", "lemma": "one", "upos": "PRON", "xpos": "PRP", "feats": "Number=Sing|Person=3|PronType=Prs"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "mind", "lemma": "mind", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "pass", "lemma": "pass", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "up", "lemma": "up", "upos": "ADP", "xpos": "RP", "feats": null}
@@ -30608,7 +30451,6 @@
 {"text": "run", "lemma": "run", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Fin"}
 {"text": "for", "lemma": "for", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "one", "lemma": "one", "upos": "PRON", "xpos": "PRP", "feats": "Number=Sing|Person=3|PronType=Prs"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "life", "lemma": "life", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "check", "lemma": "check", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "out", "lemma": "out", "upos": "ADP", "xpos": "RP", "feats": null}
@@ -30845,7 +30687,6 @@
 {"text": "make", "lemma": "make", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "up", "lemma": "up", "upos": "ADP", "xpos": "RP", "feats": null}
 {"text": "one", "lemma": "one", "upos": "PRON", "xpos": "PRP", "feats": "Number=Sing|Person=3|PronType=Prs"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "mind", "lemma": "mind", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "manufacturer", "lemma": "manufacturer", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "mild", "lemma": "mild", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
@@ -30897,7 +30738,6 @@
 {"text": "run", "lemma": "run", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Fin"}
 {"text": "for", "lemma": "for", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "one", "lemma": "one", "upos": "PRON", "xpos": "PRP", "feats": "Number=Sing|Person=3|PronType=Prs"}
-{"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "life", "lemma": "life", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "scholar", "lemma": "scholar", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "scream", "lemma": "scream", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}

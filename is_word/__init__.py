@@ -14,6 +14,9 @@ def has_impossible_english_chars(text: str) -> bool:
     # string.ascii_letters 包含 a-z, A-Z
     # string.digits 包含 0-9
     # 额外加上 "'"、"-" 和 "."
+    if text.startswith('-') or text.startswith('\'') or text.startswith('.'):
+        return True
+    
     allowed_chars = set(string.ascii_letters + string.digits + "'-.")
     
     for char in text:

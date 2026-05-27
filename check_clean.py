@@ -27,7 +27,7 @@ def clean_jsonl_file(filepath: Path) -> tuple[int, int]:
                 if is_word(lemma):
                     kept_lines.append(line)
                 elif is_word(text):
-                    item['lemma'] = text.lower()
+                    # item['lemma'] = text.lower()
                     kept_lines.append(json.dumps(item, ensure_ascii=False))
             except json.JSONDecodeError:
                 # 解析错误的行也保留，避免数据丢失

@@ -1,16 +1,3 @@
-'s
--ed
--ible
--ic
--ing
--ion
--ism
--ist
--ity
--ive
--ous
--tion
--y
 100th
 10th
 11th
@@ -98,6 +85,7 @@ REVIEWING
 Referring
 Restoring
 Running
+S
 STORIES
 SUFFIXES
 SUPPLIES

@@ -1,0 +1,8 @@
+__pycache__
+/.vscode/*
+stardict.db
+wordroot.txt
+resemble.txt
+lemma.en.txt
+ecdict.csv
+ecdict.mini.csv
