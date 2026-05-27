@@ -4044,7 +4044,6 @@
 {"text": "Pinewood", "lemma": "pinewood", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Studios", "lemma": "studios", "upos": "PROPN", "xpos": "NNPS", "feats": "Number=Sing"}
 {"text": "Mamma", "lemma": "mamma", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "Mia!", "lemma": "mia!", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "was", "lemma": "be", "upos": "AUX", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "sixth", "lemma": "sixth", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos|NumForm=Word|NumType=Ord"}
@@ -4053,7 +4052,6 @@
 {"text": "film", "lemma": "film", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Mamma", "lemma": "mamma", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "Mia!", "lemma": "mia!", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "was", "lemma": "be", "upos": "AUX", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "mostly", "lemma": "mostly", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "filmed", "lemma": "film", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}

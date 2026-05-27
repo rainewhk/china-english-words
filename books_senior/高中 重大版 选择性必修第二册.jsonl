@@ -26007,7 +26007,6 @@
 {"text": "have", "lemma": "have", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "belief", "lemma": "belief", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "about", "lemma": "about", "upos": "ADP", "xpos": "IN", "feats": null}
-{"text": "sb./", "lemma": "sb./", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "sth", "lemma": "sth", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "During", "lemma": "during", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}

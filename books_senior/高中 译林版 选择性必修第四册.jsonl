@@ -23672,7 +23672,6 @@
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "mercy", "lemma": "mercy", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
-{"text": "sb/sth", "lemma": "sb/sth", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "negotiate", "lemma": "negotiate", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "vi.", "lemma": "vi.", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "vt", "lemma": "vt", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}

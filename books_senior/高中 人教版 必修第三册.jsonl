@@ -18881,7 +18881,6 @@
 {"text": "joke", "lemma": "joke", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "WORKBOOK", "lemma": "workbook", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "per", "lemma": "per", "upos": "ADP", "xpos": "IN", "feats": null}
-{"text": "/every", "lemma": "/every", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Kenya", "lemma": "kenya", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "announced", "lemma": "announce", "upos": "VERB", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "that", "lemma": "that", "upos": "SCONJ", "xpos": "IN", "feats": null}

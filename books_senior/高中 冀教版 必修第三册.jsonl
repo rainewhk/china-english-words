@@ -20965,7 +20965,6 @@
 {"text": "d.", "lemma": "die", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "to", "lemma": "to", "upos": "PART", "xpos": "TO", "feats": null}
 {"text": "watch", "lemma": "watch", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
-{"text": "sb./", "lemma": "sb./", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "sth.", "lemma": "sth.", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "carefully", "lemma": "carefully", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "battle", "lemma": "battle", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}

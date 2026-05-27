@@ -8715,7 +8715,6 @@
 {"text": "used", "lemma": "use", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
 {"text": "as", "lemma": "as", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "attributives", "lemma": "attributive", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "=word", "lemma": "=word", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "used", "lemma": "use", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
 {"text": "before", "lemma": "before", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "noun", "lemma": "noun", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -8743,7 +8742,6 @@
 {"text": "Function", "lemma": "function", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "boiling", "lemma": "boil", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "water", "lemma": "water", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "=water", "lemma": "=water", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "that", "lemma": "that", "upos": "PRON", "xpos": "WDT", "feats": "PronType=Rel"}
 {"text": "is", "lemma": "be", "upos": "AUX", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "boiling", "lemma": "boil", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
@@ -8760,7 +8758,6 @@
 {"text": "action", "lemma": "action", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "frozen", "lemma": "freeze", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
 {"text": "food", "lemma": "food", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "=food", "lemma": "=food", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "that", "lemma": "that", "upos": "PRON", "xpos": "WDT", "feats": "PronType=Rel"}
 {"text": "has", "lemma": "have", "upos": "AUX", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "been", "lemma": "be", "upos": "AUX", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part"}
@@ -8799,7 +8796,6 @@
 {"text": "meaning", "lemma": "meaning", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "dining", "lemma": "dining", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "room", "lemma": "room", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "=room", "lemma": "=room", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "for", "lemma": "for", "upos": "SCONJ", "xpos": "IN", "feats": null}
 {"text": "eating", "lemma": "eat", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
@@ -15422,7 +15418,6 @@
 {"text": "penalty", "lemma": "penalty", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "area", "lemma": "area", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "football", "lemma": "football", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": ":m", "lemma": ":.m.", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "v.", "lemma": "v.", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "to", "lemma": "to", "upos": "PART", "xpos": "TO", "feats": null}
 {"text": "give", "lemma": "give", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}

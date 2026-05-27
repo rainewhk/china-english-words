@@ -14947,7 +14947,6 @@
 {"text": "STOP", "lemma": "stop", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "SLOW", "lemma": "slow", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "MPH", "lemma": "mph", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "km/h", "lemma": "km/h", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Step", "lemma": "step", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Listen", "lemma": "listen", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
@@ -15146,7 +15145,6 @@
 {"text": "speed", "lemma": "speed", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "zones", "lemma": "zone", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
-{"text": "km/h", "lemma": "km/h", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "or", "lemma": "or", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "less", "lemma": "less", "upos": "ADJ", "xpos": "JJR", "feats": "Degree=Cmp"}
 {"text": "traffic", "lemma": "traffic", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -25274,7 +25272,6 @@
 {"text": "he", "lemma": "he", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs"}
 {"text": "knows", "lemma": "know", "upos": "VERB", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "lot", "lemma": "lot", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "so+be", "lemma": "so+be", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "used", "lemma": "use", "upos": "VERB", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin"}
 {"text": "to", "lemma": "to", "upos": "PART", "xpos": "TO", "feats": null}
 {"text": "like", "lemma": "like", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}

@@ -23702,7 +23702,6 @@
 {"text": "hug", "lemma": "hug", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "vt", "lemma": "vt", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "procedure", "lemma": "procedure", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "*tsunami", "lemma": "*tsunami", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "odd", "lemma": "odd", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "bubble", "lemma": "bubble", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "occur", "lemma": "occur", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
@@ -23757,7 +23756,6 @@
 {"text": "port", "lemma": "port", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "cloud", "lemma": "cloud", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "capped", "lemma": "cap", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
-{"text": "*ashy", "lemma": "*ashy", "upos": "INTJ", "xpos": "UH", "feats": null}
 {"text": "dawn", "lemma": "dawn", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "volcano", "lemma": "volcano", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "take", "lemma": "take", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
@@ -23967,7 +23965,6 @@
 {"text": "standout", "lemma": "standout", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "atomic", "lemma": "atomic", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "bomb", "lemma": "bomb", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "*evil", "lemma": "*evil", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "involve", "lemma": "involve", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "vt", "lemma": "vt", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "scientific", "lemma": "scientific", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
@@ -24032,7 +24029,6 @@
 {"text": "arrangement", "lemma": "arrangement", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "as", "lemma": "as", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "to", "lemma": "to", "upos": "ADP", "xpos": "IN", "feats": null}
-{"text": "*ashy", "lemma": "*ashy", "upos": "INTJ", "xpos": "UH", "feats": null}
 {"text": "at", "lemma": "at", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "large", "lemma": "large", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "at", "lemma": "at", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -24176,7 +24172,6 @@
 {"text": "vt", "lemma": "vt", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "establish", "lemma": "establish", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "vt", "lemma": "vt", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "*evil", "lemma": "*evil", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "evolution", "lemma": "evolution", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "exit", "lemma": "exit", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "vt.", "lemma": "vt.", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
@@ -24457,7 +24452,6 @@
 {"text": "vi", "lemma": "vi", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "trial", "lemma": "trial", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "trunk", "lemma": "trunk", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "*tsunami", "lemma": "*tsunami", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "typhoon", "lemma": "typhoon", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "unbearable", "lemma": "unbearable", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "unearth", "lemma": "unearth", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}

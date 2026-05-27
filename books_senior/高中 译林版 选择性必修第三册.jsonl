@@ -24265,7 +24265,6 @@
 {"text": "unfold", "lemma": "unfold", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "vi.", "lemma": "vi.", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "vt", "lemma": "vt", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "*ethnically", "lemma": "*ethnically", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "distinct", "lemma": "distinct", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "territory", "lemma": "territory", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "valley", "lemma": "valley", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -24354,7 +24353,6 @@
 {"text": "vi.", "lemma": "vi.", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "vt", "lemma": "vt", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "parking", "lemma": "parking", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "*hut", "lemma": "*hut", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "brick", "lemma": "brick", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "dot", "lemma": "dot", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "vt", "lemma": "vt", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -24864,7 +24862,6 @@
 {"text": "entry", "lemma": "entry", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "episode", "lemma": "episode", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "equator", "lemma": "equator", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "*ethnically", "lemma": "*ethnically", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "evaluate", "lemma": "evaluate", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "vt", "lemma": "vt", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "exceptional", "lemma": "exceptional", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
@@ -24921,7 +24918,6 @@
 {"text": "hockey", "lemma": "hockey", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "humble", "lemma": "humble", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "vt", "lemma": "vt", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "*hut", "lemma": "*hut", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "hydrogen", "lemma": "hydrogen", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "view", "lemma": "view", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}

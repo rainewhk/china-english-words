@@ -21964,7 +21964,6 @@
 {"text": "lines", "lemma": "line", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "below", "lemma": "below", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "source", "lemma": "source", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "@September", "lemma": "@september", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "by", "lemma": "by", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "IFR", "lemma": "ifr", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "International", "lemma": "international", "upos": "ADJ", "xpos": "NNP", "feats": "Degree=Pos"}

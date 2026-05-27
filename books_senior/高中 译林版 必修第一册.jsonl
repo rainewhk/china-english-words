@@ -22034,7 +22034,6 @@
 {"text": "person", "lemma": "person", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "theme", "lemma": "theme", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "slave", "lemma": "slave", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "*raft", "lemma": "*raft", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "high", "lemma": "high", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "point", "lemma": "point", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "through", "lemma": "through", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -22525,7 +22524,6 @@
 {"text": "linking", "lemma": "link", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
 {"text": "pudding", "lemma": "pudding", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "quality", "lemma": "quality", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "*raft", "lemma": "*raft", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "rate", "lemma": "rate", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "rather", "lemma": "rather", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "recognize", "lemma": "recognize", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}

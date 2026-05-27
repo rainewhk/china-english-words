@@ -4770,7 +4770,6 @@
 {"text": "effects", "lemma": "effect", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "adverbial", "lemma": "adverbial", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "verb", "lemma": "verb", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "sb./", "lemma": "sb./", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "sth.", "lemma": "sth.", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "to", "lemma": "to", "upos": "PART", "xpos": "TO", "feats": null}
 {"text": "do", "lemma": "do", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}

@@ -20501,7 +20501,6 @@
 {"text": "my", "lemma": "my", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs"}
 {"text": "beard", "lemma": "beard", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "imagery", "lemma": "imagery", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "=image", "lemma": "=image", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "ry", "lemma": "ry", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "particularly", "lemma": "particularly", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "rich", "lemma": "rich", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}

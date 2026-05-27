@@ -24357,7 +24357,6 @@
 {"text": "dozens", "lemma": "dozen", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "edition", "lemma": "edition", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "*elevation", "lemma": "*elevation", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "factual", "lemma": "factual", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "fountain", "lemma": "fountain", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "pen", "lemma": "pen", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}

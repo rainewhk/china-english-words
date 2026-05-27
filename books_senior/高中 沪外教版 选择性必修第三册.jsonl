@@ -15107,7 +15107,6 @@
 {"text": "or", "lemma": "or", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "development", "lemma": "development", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
-{"text": "sb/sth", "lemma": "sb/sth", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "APA", "lemma": "apa", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "American", "lemma": "american", "upos": "ADJ", "xpos": "NNP", "feats": "Degree=Pos"}
 {"text": "Psychological", "lemma": "psychological", "upos": "ADJ", "xpos": "NNP", "feats": "Degree=Pos"}
