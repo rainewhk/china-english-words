@@ -4,14 +4,6 @@
 'er
 'r
 's
-*ashy
-*elevation
-*ethnically
-*evil
-*hut
-*raft
-*tsunami
-+metre
 -19th
 -20th
 -american
@@ -50,7 +42,6 @@
 -to
 -up
 -y
-/every
 0s
 100c
 100th
@@ -137,18 +128,6 @@
 8th
 90s
 9th
-:.m.
-:b
-:str
-=book
-=food
-=image
-=kilo
-=room
-=water
-=word
-@'kmp@ni
-@september
 a-c
 a-d
 a-e
@@ -1051,7 +1030,6 @@ ayers
 ayrshire
 aztec
 azure
-b&b
 b.
 b.c.e
 b.c.e.
@@ -3941,7 +3919,6 @@ e.
 e.e.
 e.g
 e.g.
-e=mc
 ea
 each
 eager
@@ -5068,7 +5045,6 @@ friendliest
 friendliness
 friendly
 friendship
-friendship=friend+ship
 fright
 frighten
 frightening
@@ -5097,7 +5073,6 @@ frustrating
 frustration
 fry
 frying
-fs@n@b@l
 ft
 fth
 fu
@@ -7095,7 +7070,6 @@ kleck
 klein
 kleiser
 klik
-km/h
 km2
 knee
 kneel
@@ -7928,7 +7902,6 @@ mcfarland
 mcgowan
 mcknight
 mcs
-me!
 me.
 mead
 meadow
@@ -8065,7 +8038,6 @@ mexican
 mexicans
 mexico
 mia
-mia!
 mian
 miao
 mice
@@ -8494,7 +8466,6 @@ n.
 n.h.
 n.m.
 n.o.
-n/a
 na
 naadam
 naan
@@ -8967,7 +8938,6 @@ ofthem
 oh
 ohs
 oi
-oi+od
 oil
 oily
 ok
@@ -10258,8 +10228,6 @@ pyramid
 pyramids
 pythagoras
 pythagorean
-p{nsn
-q&a
 q.
 q1
 q2
@@ -10337,7 +10305,6 @@ quo
 quotation
 quote
 quotient
-r&d
 r-i
 r-i-p
 r.
@@ -11075,11 +11042,6 @@ ry
 ryan
 ryder
 rye
-s+v
-s+v+
-s+v+c
-s+v+o
-s+v+o+c
 s-
 s.
 s1
@@ -11215,8 +11177,6 @@ say
 saying
 sb
 sb.
-sb./
-sb/sth
 sc
 scale
 scaly
@@ -11867,7 +11827,6 @@ snowy
 snub
 snug
 so
-so+be
 soak
 soap
 soar
@@ -13361,7 +13320,6 @@ u.k
 u.k.
 u.s
 u.s.
-u@rit
 ua
 uav
 ue
@@ -13390,7 +13348,6 @@ umbrella
 umph
 un
 un-
-un@nt
 unable
 unacceptable
 unambiguous
@@ -13694,7 +13651,6 @@ utilize
 utmost
 utter
 uzbekistan
-v+
 v-
 v-ed
 v-ing
