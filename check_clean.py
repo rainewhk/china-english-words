@@ -40,7 +40,7 @@ def clean_jsonl_file(filepath: Path) -> tuple[int, int]:
 
     return total_count, len(kept_lines)
 
-root_name = 'books_junior'
+root_name = 'books_senior'
 
 def main():
     books_dir = Path(root_name)

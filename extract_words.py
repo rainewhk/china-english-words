@@ -44,14 +44,14 @@ def extract_words(txt_path, output_name):
                 if '_' in word.text:
                     continue
                 if is_word(word.lemma):
-                    pass
+                    word.lemma = word.lemma.lower()
                 elif is_word(word.text):
-                    word.lemma = word.text
+                    word.lemma = word.text.lower() + '[MANUAL]'
                 else:
                     continue
                 word_out = {
                     "text": word.text,
-                    "lemma": word.lemma.lower(), # 此处额外做小写处理，避免一些特殊单词重复出现
+                    "lemma": word.lemma, # 此处额外做小写处理，避免一些特殊单词重复出现
                     "upos": word.upos,
                     "xpos": word.xpos,
                     "feats": word.feats
