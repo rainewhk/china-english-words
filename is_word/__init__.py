@@ -27,11 +27,20 @@ def has_impossible_english_chars(text: str) -> bool:
 def _is_word_ori(word: str) -> bool:
     return is_web2_word(word) or is_gcide_word(word) or is_moby_dict_word(word) or is_english_word(word) or is_wordfreq_word(word)
 
+def _is_word_ori_strict(word: str) -> bool:
+    return is_web2_word(word) or is_gcide_word(word) or is_moby_dict_word(word) or is_english_word(word)
+
 def is_word(word: str) -> bool:
     """Check if a word is an English word."""
     if has_impossible_english_chars(word):
         return False
     return _is_word_ori(word.lower()) or _is_word_ori(word.capitalize()) or _is_word_ori(word.upper())  or _is_word_ori(word.title())
+
+def is_word_strict(word: str) -> bool:
+    """Check if a word is an English word."""
+    if has_impossible_english_chars(word):
+        return False
+    return _is_word_ori_strict(word.lower()) or _is_word_ori_strict(word.capitalize()) or _is_word_ori_strict(word.upper())  or _is_word_ori_strict(word.title())
 
 if __name__ == '__main__':
     print(is_word('woodfired'))
