@@ -24,10 +24,10 @@ def clean_jsonl_file(filepath: Path) -> tuple[int, int]:
                 item = json.loads(line)
                 text = item.get('text', ' ')
                 lemma = item.get('lemma', '')
-                if is_word(lemma) or is_word(lemma.lower()):
+                if is_word(lemma):
                     kept_lines.append(line)
-                elif is_word(text) or is_word(text.lower()):
-                    item['lemma'] = text
+                elif is_word(text):
+                    item['lemma'] = text.lower()
                     kept_lines.append(json.dumps(item, ensure_ascii=False))
             except json.JSONDecodeError:
                 # 解析错误的行也保留，避免数据丢失
@@ -40,9 +40,10 @@ def clean_jsonl_file(filepath: Path) -> tuple[int, int]:
 
     return total_count, len(kept_lines)
 
+root_name = 'books_junior'
 
 def main():
-    books_dir = Path('books')
+    books_dir = Path(root_name)
     if not books_dir.exists():
         print(f"目录不存在: {books_dir}")
         return

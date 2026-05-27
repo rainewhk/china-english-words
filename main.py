@@ -1,10 +1,12 @@
 from extract_text import extract_text
 from extract_words import extract_words
 
+root_name = 'books_junior'
+
 def exec_pdf(pdf_name):
-    pdf_path = f'books/{pdf_name}.pdf'
-    txt_path = f'books/{pdf_name}.txt'
-    json_path = f'books/{pdf_name}'
+    pdf_path = f'{root_name}/{pdf_name}.pdf'
+    txt_path = f'{root_name}/{pdf_name}.txt'
+    json_path = f'{root_name}/{pdf_name}'
     extract_text(pdf_path, txt_path)
     words_set = extract_words(txt_path, json_path)
     return words_set

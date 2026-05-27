@@ -24434,7 +24434,7 @@
 {"text": "addition", "lemma": "addition", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "to", "lemma": "to", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "its", "lemma": "its", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs"}
-{"text": "campuses", "lemma": "campuse", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "campuses", "lemma": "campus", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Atlanta", "lemma": "atlanta", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
@@ -24442,7 +24442,7 @@
 {"text": "Georgia", "lemma": "georgia", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Tech", "lemma": "tech", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "has", "lemma": "have", "upos": "VERB", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
-{"text": "campuses", "lemma": "campuse", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "campuses", "lemma": "campus", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "France", "lemma": "france", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Ireland", "lemma": "ireland", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}

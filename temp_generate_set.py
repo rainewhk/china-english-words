@@ -1,9 +1,11 @@
 import json
 from pathlib import Path
 
+root_name = 'books_junior'
+
 
 def main():
-    books_dir = Path('books')
+    books_dir = Path(root_name)
     if not books_dir.exists():
         print(f"目录不存在: {books_dir}")
         return

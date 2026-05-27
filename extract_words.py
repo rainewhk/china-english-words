@@ -43,10 +43,10 @@ def extract_words(txt_path, output_name):
                     continue
                 if '_' in word.text:
                     continue
-                if is_word(word.lemma.lower()):
+                if is_word(word.lemma):
                     pass
-                elif is_word(word.text.lower()):
-                    word.lemma = word.text.lower()
+                elif is_word(word.text):
+                    word.lemma = word.text
                 else:
                     continue
                 word_out = {
