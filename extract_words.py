@@ -1,5 +1,6 @@
 import stanza
 import json
+from is_word import is_word
 
 nlp = stanza.Pipeline('en', processors='tokenize,mwt,pos,lemma', verbose=True)
 
@@ -40,9 +41,9 @@ def extract_words(txt_path, output_name):
                     continue
                 if word.lemma.isnumeric():
                     continue
-                if len(word.lemma) < 2:
-                    continue
                 if '_' in word.text:
+                    continue
+                if not is_word(word.lemma.lower()):
                     continue
                 word_out = {
                     "text": word.text,
@@ -53,9 +54,7 @@ def extract_words(txt_path, output_name):
                 }
                 result.append(word_out)
 
-    data = [i['lemma'] for i in result]
-    
-    unique_set = set(data)
+    unique_set = set(i['lemma'] for i in result)
     unique_sorted_list = sorted(list(unique_set))
 
     with open(f'{output_name}.log', 'w', encoding='utf-8') as f:
