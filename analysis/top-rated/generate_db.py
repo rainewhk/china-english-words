@@ -94,6 +94,20 @@ def count_textbook_words():
                     except json.JSONDecodeError:
                         continue
     
+    # 融入 maimemo_senior 数据
+    maimemo_csv = ROOT / "maimemo_senior" / "word_counts.csv"
+    if maimemo_csv.exists():
+        import csv
+        with open(maimemo_csv, 'r', encoding='utf-8-sig') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                word = row['单词'].lower().strip()
+                count = int(row['总次数'])
+                if word:
+                    word_counts[word] += count
+                    total_lines += count
+        print(f"融入 maimemo_senior 数据: {maimemo_csv}")
+    
     print(f"统计教科书词频: {len(word_counts)} 个不同单词, 总计 {total_lines} 次出现")
     return word_counts, total_lines
 
@@ -106,7 +120,7 @@ def get_zipf(word):
         return 0.0
 
 
-def create_database(word_counts, total_lines, ecdict_data):
+def create_database(word_counts, ecdict_data):
     """创建 SQLite 数据库"""
     # 确保输出目录存在
     OUTPUT_DB_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -124,7 +138,6 @@ def create_database(word_counts, total_lines, ecdict_data):
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             word TEXT UNIQUE NOT NULL,
             textbook_count INTEGER DEFAULT 0,
-            textbook_freq REAL DEFAULT 0,
             bnc INTEGER DEFAULT 0,
             frq INTEGER DEFAULT 0,
             zipf REAL DEFAULT 0
@@ -141,19 +154,17 @@ def create_database(word_counts, total_lines, ecdict_data):
     # 只处理教科书中的单词
     insert_data = []
     for word, count in word_counts.items():
-        textbook_freq = (count / total_lines * 1000000) if total_lines > 0 else 0  # 每百万词频
-        
         ecdict_info = ecdict_data.get(word, {})
         bnc = ecdict_info.get('bnc', 0)
         frq = ecdict_info.get('frq', 0)
         zipf = get_zipf(word)
         
-        insert_data.append((word, count, textbook_freq, bnc, frq, zipf))
+        insert_data.append((word, count, bnc, frq, zipf))
     
     # 批量插入
     cursor.executemany('''
-        INSERT INTO word_frequency (word, textbook_count, textbook_freq, bnc, frq, zipf)
-        VALUES (?, ?, ?, ?, ?, ?)
+        INSERT INTO word_frequency (word, textbook_count, bnc, frq, zipf)
+        VALUES (?, ?, ?, ?, ?)
     ''', insert_data)
     
     conn.commit()
@@ -226,7 +237,7 @@ def main():
     ecdict_data = load_ecdict_data_for_words(word_counts.keys())
     
     # 3. 创建数据库
-    create_database(word_counts, total_lines, ecdict_data)
+    create_database(word_counts, ecdict_data)
     
     # 4. 打印摘要
     print_summary()
