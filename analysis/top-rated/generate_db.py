@@ -108,6 +108,20 @@ def count_textbook_words():
                     total_lines += count
         print(f"融入 maimemo_senior 数据: {maimemo_csv}")
     
+    # 融入 youdao_ydschool 数据
+    youdao_csv = ROOT / "youdao_ydschool" / "word_counts.csv"
+    if youdao_csv.exists():
+        import csv
+        with open(youdao_csv, 'r', encoding='utf-8-sig') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                word = row['单词'].lower().strip()
+                count = int(row['总次数'])
+                if word:
+                    word_counts[word] += count
+                    total_lines += count
+        print(f"融入 youdao_ydschool 数据: {youdao_csv}")
+    
     print(f"统计教科书词频: {len(word_counts)} 个不同单词, 总计 {total_lines} 次出现")
     return word_counts, total_lines
 
