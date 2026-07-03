@@ -62,7 +62,7 @@
 {"text": "in", "lemma": "in", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "history", "lemma": "history", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "p.", "lemma": "p.", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "Geniuses", "lemma": "geniuses[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "Geniuses", "lemma": "genius", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Archimedes", "lemma": "archimedes", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -119,7 +119,7 @@
 {"text": "Sentence", "lemma": "sentence", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "types", "lemma": "type", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "p.", "lemma": "p.", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "geniuses", "lemma": "geniuses[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "geniuses", "lemma": "genius", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "p.", "lemma": "p.", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "great", "lemma": "great", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "minds", "lemma": "mind", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -571,7 +571,7 @@
 {"text": "assessment", "lemma": "assessment", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "p.", "lemma": "p.", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Module", "lemma": "module", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "Geniuses", "lemma": "geniuses[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "Geniuses", "lemma": "genius", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Getting", "lemma": "get", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
 {"text": "ready", "lemma": "ready", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "Reading", "lemma": "read", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
@@ -3384,7 +3384,7 @@
 {"text": "about", "lemma": "about", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Laozi", "lemma": "laozi", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Module", "lemma": "module", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "Geniuses", "lemma": "geniuses[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "Geniuses", "lemma": "genius", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Getting", "lemma": "get", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
 {"text": "ready", "lemma": "ready", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "Reading", "lemma": "read", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
@@ -3452,7 +3452,7 @@
 {"text": "here", "lemma": "here", "upos": "ADV", "xpos": "RB", "feats": "PronType=Dem"}
 {"text": "that", "lemma": "that", "upos": "SCONJ", "xpos": "IN", "feats": null}
 {"text": "many", "lemma": "many", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
-{"text": "geniuses", "lemma": "geniuses[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "geniuses", "lemma": "genius", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "are", "lemma": "be", "upos": "AUX", "xpos": "VBP", "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "a", "lemma": "a", "upos": "DET", "xpos": "DT", "feats": "Definite=Ind|PronType=Art"}
 {"text": "little", "lemma": "little", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
@@ -3515,7 +3515,7 @@
 {"text": "are", "lemma": "be", "upos": "AUX", "xpos": "VBP", "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "probably", "lemma": "probably", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
-{"text": "geniuses", "lemma": "geniuses[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "geniuses", "lemma": "genius", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "a", "lemma": "a", "upos": "DET", "xpos": "DT", "feats": "Definite=Ind|PronType=Art"}
 {"text": "Einstein", "lemma": "einstein", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
@@ -15596,7 +15596,7 @@
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "planted", "lemma": "plant", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
-{"text": "buffaloes", "lemma": "buffaloes[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "buffaloes", "lemma": "buffalo", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "are", "lemma": "be", "upos": "AUX", "xpos": "VBP", "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "fed", "lemma": "feed", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
 {"text": "The", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}

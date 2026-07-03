@@ -2796,7 +2796,7 @@
 {"text": "taught", "lemma": "teach", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
 {"text": "how", "lemma": "how", "upos": "ADV", "xpos": "WRB", "feats": "PronType=Int"}
 {"text": "Maui", "lemma": "maui", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "outwitted", "lemma": "outwitted[MANUAL]", "upos": "VERB", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
+{"text": "outwitted", "lemma": "outwit", "upos": "VERB", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "his", "lemma": "his", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs"}
 {"text": "brothers", "lemma": "brother", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "to", "lemma": "to", "upos": "PART", "xpos": "TO", "feats": null}
@@ -5462,7 +5462,7 @@
 {"text": "substances", "lemma": "substance", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "can", "lemma": "can", "upos": "AUX", "xpos": "MD", "feats": "VerbForm=Fin"}
 {"text": "be", "lemma": "be", "upos": "AUX", "xpos": "VB", "feats": "VerbForm=Inf"}
-{"text": "recycled", "lemma": "recycled[MANUAL]", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
+{"text": "recycled", "lemma": "recycle", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
 {"text": "glass", "lemma": "glass", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "paper", "lemma": "paper", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "plastic", "lemma": "plastic", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -16110,7 +16110,7 @@
 {"text": "primrose", "lemma": "primrose", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "sweet", "lemma": "sweet", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "Scatters", "lemma": "scatter", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "daises", "lemma": "daises[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "daises", "lemma": "dais", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "at", "lemma": "at", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "our", "lemma": "our", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs"}
 {"text": "feet", "lemma": "foot", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -19572,7 +19572,7 @@
 {"text": "upright", "lemma": "upright", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "loyal", "lemma": "loyal", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "noble", "lemma": "noble", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
-{"text": "cunning", "lemma": "cunning[MANUAL]", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
+{"text": "cunning", "lemma": "cunning", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
 {"text": "playwright", "lemma": "playwright", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "midsummer", "lemma": "midsummer", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "merchant", "lemma": "merchant", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}

@@ -1523,7 +1523,7 @@
 {"text": "buy", "lemma": "buy", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "buys", "lemma": "busy", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "fixes", "lemma": "fix", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "buzzes", "lemma": "buzzes[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "buzzes", "lemma": "buzz", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "C", "lemma": "c", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Practice", "lemma": "practice", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "It", "lemma": "it", "upos": "PRON", "xpos": "PRP", "feats": "Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs"}
@@ -4101,7 +4101,7 @@
 {"text": "after", "lemma": "after", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "course", "lemma": "course", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "finishes", "lemma": "finishes[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "finishes", "lemma": "finish", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "A", "lemma": "a", "upos": "DET", "xpos": "DT", "feats": "Definite=Ind|PronType=Art"}
 {"text": "Here", "lemma": "here", "upos": "ADV", "xpos": "RB", "feats": "PronType=Dem"}
 {"text": "'s", "lemma": "be", "upos": "AUX", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
@@ -9349,7 +9349,7 @@
 {"text": "MUST", "lemma": "must", "upos": "AUX", "xpos": "MD", "feats": "VerbForm=Fin"}
 {"text": "HAVE", "lemma": "have", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "AN", "lemma": "a", "upos": "DET", "xpos": "DT", "feats": "Definite=Ind|PronType=Art"}
-{"text": "ICEBREAKER", "lemma": "icebreaker[MANUAL]", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
+{"text": "ICEBREAKER", "lemma": "icebreaker", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "TO", "lemma": "to", "upos": "PART", "xpos": "TO", "feats": null}
 {"text": "FREE", "lemma": "free", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "THEM", "lemma": "they", "upos": "PRON", "xpos": "PRP", "feats": "Case=Acc|Number=Plur|Person=3|PronType=Prs"}
@@ -10287,7 +10287,7 @@
 {"text": "rope", "lemma": "rope", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Mike", "lemma": "mike", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Ben", "lemma": "ben", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "jogging", "lemma": "jogging[MANUAL]", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
+{"text": "jogging", "lemma": "jog", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
 {"text": "swimming", "lemma": "swim", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "e.g.", "lemma": "e.g.", "upos": "ADV", "xpos": "FW", "feats": "Abbr=Yes"}
 {"text": "What", "lemma": "what", "upos": "PRON", "xpos": "WP", "feats": "PronType=Int"}

@@ -4544,7 +4544,7 @@
 {"text": "use", "lemma": "use", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "of", "lemma": "of", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "apostrophe", "lemma": "apostrophe", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "Referring", "lemma": "referring[MANUAL]", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
+{"text": "Referring", "lemma": "refer", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
 {"text": "to", "lemma": "to", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "Examples", "lemma": "example", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "human", "lemma": "human", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
@@ -15587,7 +15587,7 @@
 {"text": "tennis", "lemma": "tennis", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "cricket", "lemma": "cricket", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "judo", "lemma": "judo", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "jogging", "lemma": "jogging[MANUAL]", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
+{"text": "jogging", "lemma": "jog", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
 {"text": "sailing", "lemma": "sailing", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "snooker", "lemma": "snooker", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "boxing", "lemma": "boxing", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -16908,7 +16908,7 @@
 {"text": "following", "lemma": "follow", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
 {"text": "way", "lemma": "way", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Cutlery", "lemma": "cutlery", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "Knives", "lemma": "knives[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "Knives", "lemma": "knife", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "spoons", "lemma": "spoon", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "go", "lemma": "go", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}

@@ -2631,7 +2631,7 @@
 {"text": "Telephone", "lemma": "telephone", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "number", "lemma": "number", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Order", "lemma": "order", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "Dishes", "lemma": "dishes[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "Dishes", "lemma": "dish", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "fish", "lemma": "fish", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Dumplings", "lemma": "dumpling", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "beef", "lemma": "beef", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -4699,7 +4699,7 @@
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "pictures", "lemma": "picture", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "a", "lemma": "a", "upos": "DET", "xpos": "DT", "feats": "Definite=Ind|PronType=Art"}
-{"text": "-f", "lemma": "-f[MANUAL]", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
+{"text": "-f", "lemma": "-f", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "did", "lemma": "do", "upos": "VERB", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "my", "lemma": "my", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs"}
 {"text": "homework", "lemma": "homework", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}

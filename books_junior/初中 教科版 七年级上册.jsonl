@@ -10023,7 +10023,7 @@
 {"text": "Now", "lemma": "now", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "I", "lemma": "i", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Number=Sing|Person=1|PronType=Prs"}
 {"text": "enjoy", "lemma": "enjoy", "upos": "VERB", "xpos": "VBP", "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin"}
-{"text": "waterskiing", "lemma": "waterskiing[MANUAL]", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
+{"text": "waterskiing", "lemma": "waterski", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
 {"text": "as", "lemma": "as", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "fast", "lemma": "fast", "upos": "ADV", "xpos": "RB", "feats": "Degree=Pos"}
 {"text": "as", "lemma": "as", "upos": "SCONJ", "xpos": "IN", "feats": null}

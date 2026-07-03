@@ -71,6 +71,9 @@ def count_textbook_words():
                     try:
                         data = json.loads(line)
                         lemma = data.get('lemma', '').lower().strip()
+                        lemma = lemma.replace('?', '').replace('!', '').replace(',', '')
+                        if '#' in lemma or '=' in lemma or '[' in lemma or ']' in lemma:
+                            continue
                         if lemma and len(lemma) > 0:
                             word_counts[lemma] += 1
                             total_lines += 1
@@ -88,6 +91,7 @@ def count_textbook_words():
                     try:
                         data = json.loads(line)
                         lemma = data.get('lemma', '').lower().strip()
+                        lemma = lemma.replace('?', '').replace('!', '').replace(',', '')
                         if lemma and len(lemma) > 0:
                             word_counts[lemma] += 1
                             total_lines += 1
@@ -103,8 +107,8 @@ def count_textbook_words():
             for row in reader:
                 word = row['单词'].lower().strip()
                 count = int(row['总次数'])
-                if word:
-                    word_counts[word] += count
+                for word_i in word.split(' '):
+                    word_counts[word_i] += count
                     total_lines += count
         print(f"融入 maimemo_senior 数据: {maimemo_csv}")
     
@@ -117,8 +121,8 @@ def count_textbook_words():
             for row in reader:
                 word = row['单词'].lower().strip()
                 count = int(row['总次数'])
-                if word:
-                    word_counts[word] += count
+                for word_i in word.split(' '):
+                    word_counts[word_i] += count
                     total_lines += count
         print(f"融入 youdao_ydschool 数据: {youdao_csv}")
     

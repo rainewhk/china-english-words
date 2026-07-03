@@ -2380,7 +2380,7 @@
 {"text": "which", "lemma": "which", "upos": "DET", "xpos": "WDT", "feats": "PronType=Int"}
 {"text": "one", "lemma": "one", "upos": "PRON", "xpos": "PRP", "feats": "Number=Sing|Person=3|PronType=Prs"}
 {"text": "disagrees", "lemma": "disagree", "upos": "VERB", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
-{"text": "Skimming", "lemma": "skimming[MANUAL]", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
+{"text": "Skimming", "lemma": "skim", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
 {"text": "Dear", "lemma": "dear", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "Sir", "lemma": "sir", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "I", "lemma": "i", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Number=Sing|Person=1|PronType=Prs"}

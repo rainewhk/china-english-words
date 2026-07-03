@@ -7385,7 +7385,7 @@
 {"text": "have", "lemma": "have", "upos": "VERB", "xpos": "VBP", "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin"}
 {"text": "noodles", "lemma": "noodle", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "School", "lemma": "school", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "finishes", "lemma": "finishes[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "finishes", "lemma": "finish", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Sometimes", "lemma": "sometimes", "upos": "ADV", "xpos": "RB", "feats": null}
 {"text": "I", "lemma": "i", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Number=Sing|Person=1|PronType=Prs"}
 {"text": "play", "lemma": "play", "upos": "VERB", "xpos": "VBP", "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin"}

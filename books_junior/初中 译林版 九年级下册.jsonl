@@ -2562,7 +2562,7 @@
 {"text": "culture", "lemma": "culture", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "For", "lemma": "for", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "example", "lemma": "example", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "nodding", "lemma": "nodding[MANUAL]", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
+{"text": "nodding", "lemma": "nod", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
 {"text": "one", "lemma": "one", "upos": "PRON", "xpos": "PRP", "feats": "Number=Sing|Person=3|PronType=Prs"}
 {"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "head", "lemma": "head", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -3384,7 +3384,7 @@
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "article", "lemma": "article", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "NEIL", "lemma": "neil", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "ARMSTRONG", "lemma": "armstrong[MANUAL]", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
+{"text": "ARMSTRONG", "lemma": "armstrong", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Neil", "lemma": "neil", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Armstrong", "lemma": "armstrong", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "was", "lemma": "be", "upos": "AUX", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
@@ -7520,7 +7520,7 @@
 {"text": "begins", "lemma": "begin", "upos": "VERB", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "at", "lemma": "at", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
-{"text": "finishes", "lemma": "finishes[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "finishes", "lemma": "finish", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "at", "lemma": "at", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "The", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "price", "lemma": "price", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}

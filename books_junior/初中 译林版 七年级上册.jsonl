@@ -13607,7 +13607,7 @@
 {"text": "plan", "lemma": "plan", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "some", "lemma": "some", "upos": "DET", "xpos": "DT", "feats": "PronType=Ind"}
-{"text": "sketches", "lemma": "sketches[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "sketches", "lemma": "sketch", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Then", "lemma": "then", "upos": "ADV", "xpos": "RB", "feats": "PronType=Dem"}
 {"text": "describe", "lemma": "describe", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "them", "lemma": "they", "upos": "PRON", "xpos": "PRP", "feats": "Case=Acc|Number=Plur|Person=3|PronType=Prs"}
@@ -15603,9 +15603,9 @@
 {"text": "teach", "lemma": "teach", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "teaches", "lemma": "teach", "upos": "VERB", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "finish", "lemma": "finish", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "finishes", "lemma": "finishes[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "finishes", "lemma": "finish", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "guess", "lemma": "guess", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "guesses", "lemma": "guesses[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "guesses", "lemma": "guess", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "fix", "lemma": "fix", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "fixes", "lemma": "fix", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": "Typo=Yes"}
@@ -17160,7 +17160,7 @@
 {"text": "scarf", "lemma": "scarf", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "n.", "lemma": "n.", "upos": "NOUN", "xpos": "NN", "feats": "Abbr=Yes|Number=Sing"}
 {"text": "pl.", "lemma": "pl.", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "scarves", "lemma": "scarves[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "scarves", "lemma": "scarf", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "both", "lemma": "both", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "det", "lemma": "det", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "pron.", "lemma": "pron.", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -17843,7 +17843,7 @@
 {"text": "scarf", "lemma": "scarf", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "n.", "lemma": "n.", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "pl.", "lemma": "pl.", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "scarves", "lemma": "scarves[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "scarves", "lemma": "scarf", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "score", "lemma": "score", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "n.", "lemma": "n.", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "seem", "lemma": "seem", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}

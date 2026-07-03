@@ -9583,7 +9583,7 @@
 {"text": "to", "lemma": "to", "upos": "PART", "xpos": "TO", "feats": null}
 {"text": "show", "lemma": "show", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "agreement", "lemma": "agreement", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "gobble", "lemma": "gobble[MANUAL]", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Inf"}
+{"text": "gobble", "lemma": "gobble", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Inf"}
 {"text": "something", "lemma": "something", "upos": "PRON", "xpos": "NN", "feats": "Number=Sing|PronType=Ind"}
 {"text": "up", "lemma": "up", "upos": "ADP", "xpos": "RP", "feats": null}
 {"text": "a", "lemma": "a", "upos": "DET", "xpos": "DT", "feats": "Definite=Ind|PronType=Art"}
@@ -15032,7 +15032,7 @@
 {"text": "are", "lemma": "be", "upos": "AUX", "xpos": "VBP", "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "Crown", "lemma": "crown", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "Jewels", "lemma": "jewels[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "Jewels", "lemma": "jewel", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "displayed", "lemma": "display", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
 {"text": "I", "lemma": "i", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Number=Sing|Person=1|PronType=Prs"}
 {"text": "want", "lemma": "want", "upos": "VERB", "xpos": "VBP", "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin"}
@@ -26653,7 +26653,7 @@
 {"text": "one", "lemma": "one", "upos": "PRON", "xpos": "PRP", "feats": "Number=Sing|Person=3|PronType=Prs"}
 {"text": "'s", "lemma": "'s", "upos": "PART", "xpos": "POS", "feats": null}
 {"text": "back", "lemma": "back", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "backslapping", "lemma": "backslapping[MANUAL]", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Part"}
+{"text": "backslapping", "lemma": "backslap", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Part"}
 {"text": "e.", "lemma": "e.", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "all", "lemma": "all", "upos": "DET", "xpos": "PDT", "feats": "PronType=Tot"}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}

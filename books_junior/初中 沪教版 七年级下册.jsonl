@@ -6537,7 +6537,7 @@
 {"text": "their", "lemma": "their", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs"}
 {"text": "uses", "lemma": "use", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Using", "lemma": "use", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Part"}
-{"text": "suffixes", "lemma": "suffixes[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "suffixes", "lemma": "suffix", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "to", "lemma": "to", "upos": "PART", "xpos": "TO", "feats": null}
 {"text": "guess", "lemma": "guess", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "meanings", "lemma": "meaning", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -7684,7 +7684,7 @@
 {"text": "how", "lemma": "how", "upos": "ADV", "xpos": "WRB", "feats": "PronType=Int"}
 {"text": "to", "lemma": "to", "upos": "PART", "xpos": "TO", "feats": null}
 {"text": "use", "lemma": "use", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
-{"text": "suffixes", "lemma": "suffixes[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "suffixes", "lemma": "suffix", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "to", "lemma": "to", "upos": "PART", "xpos": "TO", "feats": null}
 {"text": "guess", "lemma": "guess", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
@@ -8914,14 +8914,14 @@
 {"text": "Ingredients", "lemma": "ingredient", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "g", "lemma": "gram", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "beef", "lemma": "beef", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "ml", "lemma": "ml[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "ml", "lemma": "ml", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "orange", "lemma": "orange", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "juice", "lemma": "juice", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "oranges", "lemma": "orange", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "g", "lemma": "gram", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "sugar", "lemma": "sugar", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "onions", "lemma": "onion", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
-{"text": "ml", "lemma": "ml[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "ml", "lemma": "ml", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "cooking", "lemma": "cooking", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "oil", "lemma": "oil", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Dora", "lemma": "dora", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}

@@ -54,7 +54,7 @@
 {"text": "Robinson", "lemma": "robinson", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Guy", "lemma": "guy", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "de", "lemma": "de", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
-{"text": "Villiers", "lemma": "villiers[MANUAL]", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
+{"text": "Villiers", "lemma": "villiers", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Edward", "lemma": "edward", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Vickers", "lemma": "vicker", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "Contents", "lemma": "content", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}

@@ -21395,7 +21395,7 @@
 {"text": "she", "lemma": "she", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs"}
 {"text": "is", "lemma": "be", "upos": "AUX", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "facing", "lemma": "face", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
-{"text": "REVIEWING", "lemma": "reviewing[MANUAL]", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
+{"text": "REVIEWING", "lemma": "review", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
 {"text": "Taking", "lemma": "take", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
 {"text": "notes", "lemma": "note", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "or", "lemma": "or", "upos": "CCONJ", "xpos": "CC", "feats": null}
@@ -27570,9 +27570,9 @@
 {"text": "Reuse", "lemma": "reuse", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "Recycle", "lemma": "recycle", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "UNDERSTANDING", "lemma": "understanding", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "PREFIXES", "lemma": "prefixes[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "PREFIXES", "lemma": "prefix", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "AND", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
-{"text": "SUFFIXES", "lemma": "suffixes[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "SUFFIXES", "lemma": "suffix", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Do", "lemma": "do", "upos": "AUX", "xpos": "VBP", "feats": "Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin"}
 {"text": "you", "lemma": "you", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Person=2|PronType=Prs"}
 {"text": "oft", "lemma": "oft", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}

@@ -7873,7 +7873,7 @@
 {"text": "could", "lemma": "could", "upos": "AUX", "xpos": "MD", "feats": "VerbForm=Fin"}
 {"text": "drive", "lemma": "drive", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
 {"text": "them", "lemma": "they", "upos": "PRON", "xpos": "PRP", "feats": "Case=Acc|Number=Plur|Person=3|PronType=Prs"}
-{"text": "Skimming", "lemma": "skimming[MANUAL]", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
+{"text": "Skimming", "lemma": "skim", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
 {"text": "Skimming", "lemma": "skimming", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "means", "lemma": "mean", "upos": "VERB", "xpos": "VBZ", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"}
 {"text": "to", "lemma": "to", "upos": "PART", "xpos": "TO", "feats": null}
@@ -21211,7 +21211,7 @@
 {"text": "rhythm", "lemma": "rhythm", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "rising", "lemma": "rise", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
 {"text": "intonation", "lemma": "intonation", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "skimming", "lemma": "skimming[MANUAL]", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
+{"text": "skimming", "lemma": "skim", "upos": "VERB", "xpos": "VBG", "feats": "Tense=Pres|VerbForm=Part"}
 {"text": "stressed", "lemma": "stress", "upos": "VERB", "xpos": "VBN", "feats": "Tense=Past|VerbForm=Part|Voice=Pass"}
 {"text": "syllable", "lemma": "syllable", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "strong", "lemma": "strong", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}

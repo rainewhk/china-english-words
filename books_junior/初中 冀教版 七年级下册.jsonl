@@ -5631,7 +5631,7 @@
 {"text": "She", "lemma": "she", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs"}
 {"text": "gave", "lemma": "give", "upos": "VERB", "xpos": "VBD", "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"}
 {"text": "silk", "lemma": "silk", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
-{"text": "scarves", "lemma": "scarves[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "scarves", "lemma": "scarf", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "tea", "lemma": "tea", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "to", "lemma": "to", "upos": "ADP", "xpos": "IN", "feats": null}
@@ -14813,7 +14813,7 @@
 {"text": "n't", "lemma": "not", "upos": "PART", "xpos": "RB", "feats": "Polarity=Neg"}
 {"text": "forget", "lemma": "forget", "upos": "VERB", "xpos": "VB", "feats": "Mood=Imp|VerbForm=Fin"}
 {"text": "your", "lemma": "your", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Person=2|Poss=Yes|PronType=Prs"}
-{"text": "scarves", "lemma": "scarves[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "scarves", "lemma": "scarf", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "hats", "lemma": "hat", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
 {"text": "gloves", "lemma": "glove", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
@@ -15074,7 +15074,7 @@
 {"text": "the", "lemma": "the", "upos": "DET", "xpos": "DT", "feats": "Definite=Def|PronType=Art"}
 {"text": "blanks", "lemma": "blank", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "snowy", "lemma": "snowy", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
-{"text": "scarves", "lemma": "scarves[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "scarves", "lemma": "scarf", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "hill", "lemma": "hill", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
 {"text": "clear", "lemma": "clear", "upos": "ADJ", "xpos": "JJ", "feats": "Degree=Pos"}
 {"text": "snowman", "lemma": "snowman", "upos": "NOUN", "xpos": "NN", "feats": "Number=Sing"}
@@ -15243,11 +15243,11 @@
 {"text": "wear", "lemma": "wear", "upos": "VERB", "xpos": "VBP", "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin"}
 {"text": "sweaters", "lemma": "sweater", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "and", "lemma": "and", "upos": "CCONJ", "xpos": "CC", "feats": null}
-{"text": "scarves", "lemma": "scarves[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "scarves", "lemma": "scarf", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "I", "lemma": "i", "upos": "PRON", "xpos": "PRP", "feats": "Case=Nom|Number=Sing|Person=1|PronType=Prs"}
 {"text": "love", "lemma": "love", "upos": "VERB", "xpos": "VBP", "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin"}
 {"text": "wearing", "lemma": "wear", "upos": "VERB", "xpos": "VBG", "feats": "VerbForm=Ger"}
-{"text": "scarves", "lemma": "scarves[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "scarves", "lemma": "scarf", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "On", "lemma": "on", "upos": "ADP", "xpos": "IN", "feats": null}
 {"text": "weekends", "lemma": "weekend", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "my", "lemma": "my", "upos": "PRON", "xpos": "PRP$", "feats": "Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs"}
@@ -15427,7 +15427,7 @@
 {"text": "Kim", "lemma": "kim", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "can", "lemma": "can", "upos": "AUX", "xpos": "MD", "feats": "VerbForm=Fin"}
 {"text": "wear", "lemma": "wear", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
-{"text": "scarves", "lemma": "scarves[MANUAL]", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
+{"text": "scarves", "lemma": "scarf", "upos": "NOUN", "xpos": "NNS", "feats": "Number=Plur"}
 {"text": "Kim", "lemma": "kim", "upos": "PROPN", "xpos": "NNP", "feats": "Number=Sing"}
 {"text": "can", "lemma": "can", "upos": "AUX", "xpos": "MD", "feats": "VerbForm=Fin"}
 {"text": "wear", "lemma": "wear", "upos": "VERB", "xpos": "VB", "feats": "VerbForm=Inf"}
