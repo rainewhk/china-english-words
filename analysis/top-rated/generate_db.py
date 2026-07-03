@@ -175,6 +175,9 @@ def create_database(word_counts, ecdict_data):
         
         insert_data.append((word, count, bnc, frq, zipf))
     
+    # 按 textbook_count 降序排序，保证查询时默认顺序
+    insert_data.sort(key=lambda x: x[1], reverse=True)
+
     # 批量插入
     cursor.executemany('''
         INSERT INTO word_frequency (word, textbook_count, bnc, frq, zipf)
@@ -187,6 +190,31 @@ def create_database(word_counts, ecdict_data):
     print(f"创建数据库: {OUTPUT_DB_PATH}")
     print(f"  - 总计 {len(insert_data)} 个单词")
     print(f"  - 文件大小: {OUTPUT_DB_PATH.stat().st_size / 1024:.1f} KB")
+
+
+def write_csv(word_counts, ecdict_data):
+    """导出 word_frequency.csv，按 textbook_count 降序"""
+    OUTPUT_CSV_PATH = ROOT / "analysis" / "top-rated" / "word_frequency.csv"
+
+    import csv
+    rows = []
+    for word, count in word_counts.items():
+        ecdict_info = ecdict_data.get(word, {})
+        bnc = ecdict_info.get('bnc', 0)
+        frq = ecdict_info.get('frq', 0)
+        zipf = get_zipf(word)
+        rows.append([word, count, bnc, frq, zipf])
+
+    rows.sort(key=lambda r: r[1], reverse=True)
+
+    with open(OUTPUT_CSV_PATH, 'w', encoding='utf-8', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow(['word', 'textbook_count', 'bnc', 'frq', 'zipf'])
+        writer.writerows(rows)
+
+    print(f"\n导出 CSV: {OUTPUT_CSV_PATH}")
+    print(f"  - 总计 {len(rows)} 行")
+    print(f"  - 文件大小: {OUTPUT_CSV_PATH.stat().st_size / 1024:.1f} KB")
 
 
 def print_summary():
@@ -252,8 +280,11 @@ def main():
     
     # 3. 创建数据库
     create_database(word_counts, ecdict_data)
-    
-    # 4. 打印摘要
+
+    # 4. 导出 CSV
+    write_csv(word_counts, ecdict_data)
+
+    # 5. 打印摘要
     print_summary()
     
     print(f"\n完成！数据库文件: {OUTPUT_DB_PATH}")
