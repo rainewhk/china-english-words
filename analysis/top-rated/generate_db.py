@@ -108,7 +108,7 @@ def count_textbook_words():
                 word = row['单词'].lower().strip()
                 count = int(row['总次数'])
                 for word_i in word.split(' '):
-                    word_counts[word_i] += count
+                    word_counts[word_i.replace('?', '').replace('!', '').replace(',', '')] += count
                     total_lines += count
         print(f"融入 maimemo_senior 数据: {maimemo_csv}")
     
@@ -122,7 +122,7 @@ def count_textbook_words():
                 word = row['单词'].lower().strip()
                 count = int(row['总次数'])
                 for word_i in word.split(' '):
-                    word_counts[word_i] += count
+                    word_counts[word_i.replace('?', '').replace('!', '').replace(',', '')] += count
                     total_lines += count
         print(f"融入 youdao_ydschool 数据: {youdao_csv}")
     
