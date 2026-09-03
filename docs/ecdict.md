@@ -1,14 +1,10 @@
 # ECDICT
 
-Free English to Chinese Dictionary Database.
+<https://github.com/skywind3000/ecdict>
 
-## 简介
+<https://github.com/skywind3000/ECDICT/releases>
 
-这是一份英文->中文字典的双解词典数据库，根据各类考试大纲和语料库词频收录数十万条各类单词的英文和中文释义，并按照各类考试大纲和词频进行标注。
-
-最初开发看书软件时需要给软件添加一个内嵌字典，在网上找到了一份别人提供的 EDictAZ.txt 的文本文件，里面有差不多两万英文单词的释义，于是开始用这个文件来提供字典查询，用着用着不够用了，又找到一份四六级到 GRE 包含释义的词汇表，但是缺少音标，于是写了个爬虫从各种资料里面把音标给爬下来，外加自己补充了一些组成了一份三万基本词汇的数据库。
-
-其后数年根据各种资料和网友贡献词库增长到 10 万左右，又找到 Linux 下面的 cdict-1.0-1.rpm 这个开源字典数据（mdict 的主词库也是根据 cdict 转换得到），并按照英国国家语料库的前 16 万单词进行校对，补全很多语料库里词频较高但是却没有收录的词条。
+以下是原 README.md（截止到 bfe2feb last year）。
 
 ## 单词标注
 
@@ -155,11 +151,15 @@ CSV 数据库虽然没有记录该字段，但每次加载到内存以后会自�
 
 这是参考 Mdx 词典格式引入的模糊匹配键值，当你使用 stardict.py 中的 match 方法时，如果第三个参数为 True，将会使用 `sw` 字段进行匹配。默认 False 使用 `word` 字段匹配时，是严格匹配字符串，那么你搜索 "long-time" 这个单词，只能匹配到 "long-time" 开头的所有单词，比如：
 
-    long-time, long-time base, long-time period, long-time cycle, ...
+```
+long-time, long-time base, long-time period, long-time cycle, ...
+```
 
 但是如果进行模糊匹配，按照 `sw` 字段匹配 "long-time" 这个单词，将会搜索出所有 `sw` 以 "longtime" 开头的单词，比如：
 
-    long-time, longtime, long time, long-time base, longtime base, ...
+```
+long-time, longtime, long time, long-time base, longtime base, ...
+```
 
 单词随着时间的推移，最开始是一个词组，然后变为一个减号链接的组合词，最后用的多了，减号也省了。很多词典里不一定能完全包括 long-time/long time/longtime 这类词的所有形态，但首次查询搜索失败时，可以 match 一下相同 sw 的单词，然后能够定位到该单词的其他形态。
 
@@ -169,67 +169,20 @@ CSV 数据库虽然没有记录该字段，但每次加载到内存以后会自�
 
 linguist.py 里面有一些简单的 WordNet, NodeBox 封装。
 
-## 简明英汉增强版
+## 简明英汉增强版（Release 中）
 
-使用 ECDICT 的数据，生成了《[简明英汉字典增强版](https://github.com/skywind3000/ECDICT/wiki/%E7%AE%80%E6%98%8E%E8%8B%B1%E6%B1%89%E5%AD%97%E5%85%B8%E5%A2%9E%E5%BC%BA%E7%89%88)》的字典词库，可以在 GoldenDict, 欧陆, MDict, StarDict, BlueDict, EDWin 里面加载，还有 Kindle 格式，可以在 Kindle 里面挂载。这是全网收词量最多的本地化词典，再也不用联网查单词忍受网速慢，广告多和效率低的问题了。
+收词量 340万，输出《简明英汉字典增强版》文件说明：
 
-[简明英汉增强版-说明和下载](https://github.com/skywind3000/ECDICT/wiki/%E7%AE%80%E6%98%8E%E8%8B%B1%E6%B1%89%E5%AD%97%E5%85%B8%E5%A2%9E%E5%BC%BA%E7%89%88)
+```
+文件名 格式 说明 兼容
+ecdict-mdx-28.zip mdx 有音标 GoldenDict, BlueDict, MDict, 欧陆, EDWin
+ecdict-mdx-headless-28.zip mdx 无音标 GoldenDict, BlueDict, MDict, 欧陆, EDWin
+ecdict-mdx-style-28.zip mdx CSS定制 GoldenDict, BlueDict, MDict, 欧陆, EDWin
+ecdict-eudic-28.zip eudic 有音标 欧陆（原生格式速度快）
+ecdict-eudic-headless-28.zip eudic 无音标 欧陆（原生格式速度快）
+ecdict-stardict-28.zip stardict 有音标 GoldenDict, StarDict （轻量级纯文本格式）
+ecdict-mobi-28.zip mobi 有音标 Kindle
+ecdict-sqlite-28.zip sqlite 有音标 适用 stardict.py 读取的 sqlite 数据库
+```
 
-## 文档索引
-
-- [项目维基](https://github.com/skywind3000/ECDICT/wiki)
-- [简明英汉增强版](https://github.com/skywind3000/ECDICT/wiki/%E7%AE%80%E6%98%8E%E8%8B%B1%E6%B1%89%E5%AD%97%E5%85%B8%E5%A2%9E%E5%BC%BA%E7%89%88)
-- [简明英汉增强版-欧陆专版](https://github.com/skywind3000/ECDICT/wiki/%E7%AE%80%E6%98%8E%E8%8B%B1%E6%B1%89%E5%A2%9E%E5%BC%BA%E7%89%88%EF%BC%88%E6%AC%A7%E9%99%86%EF%BC%89)
-- [选词来源](https://github.com/skywind3000/ECDICT/wiki/%E9%80%89%E8%AF%8D)
-- [双解释义](https://github.com/skywind3000/ECDICT/wiki/%E5%8F%8C%E8%A7%A3%E9%87%8A%E4%B9%89)
-
-## 欢迎贡献
-
-采用 CSV 格式正是为了方便 GitHub 上提交 PR，管理 differ，欢迎大家提交各类词条增补。
-
-## 更多词典
-
-我的其它词典：
-
-- 《[简明英汉必应版](https://skywind.me/blog/archives/2875)》
-- 《[单词释义比例词典](https://skywind.me/blog/archives/2938)》
-- 《[近义词辨析词典](https://skywind.me/blog/archives/2941)》
-
-欢迎关注：
-
-- 我的博客：https://skywind.me/blog
-- 个人推特：https://x.com/skywind3000
-
-
-## TODO
-
-- ~~搜索并校对：所有动词（3 月 21 日根据 NodeBox 工具包校对完成）~~
-- ~~搜索并校对：所有副词（3 月 22 日完成校对）~~
-- ~~搜索并校对：所有形容词（3 月 22 日完成校对）~~
-- ~~搜索并校对：所有动物名词（http://lib.colostate.edu/wildlife/atoz.php?letter=all）~~
-- ~~搜索并校对：所有植物名词（http://davesgarden.com/guides/botanary/vbl/a/）~~
-- ~~搜索并校对：所有地理名词（http://www.itseducation.asia/geography/a.htm）~~
-- ~~搜索并校对：所有地名（https://en.wikipedia.org/wiki/Lists_of_cities_by_country）~~
-- ~~补充完成非核心词汇的英文释义~~
-- ~~补充各个单词的位置信息~~
-- ~~补充动词的时态语态变种信息~~
-- 继续修订核心两万词汇的释义准确性
-
-## HISTORY
-
-- 2017-4-20 在网友大力支持下，版本 1.0.14 发布，收词 222 万，同时生成 mdx 词典，见 release 页面
-- 2017-4-7 收录开源词典 《[屌丝字典](https://github.com/fxsjy/diaosi)》的英汉部分。
-- 2017-3-31 修正当代语料库词频数据和部分 BNC 数据。
-- 2017-3-29 整理完所有动词的衍生形式
-- 2017-3-28 整理文档，补全网友提供的部分释义包括一些地名和人名
-- 2017-3-27 再次根据 BNC，并且自动生成字典中缺少的动词，名词和形容词的各种时态语态。
-- 2017-3-26 全面统计 BNC 原始语料库中一亿个单词，生成单词变化数据库 lemma.en.txt。
-- 2017-3-23 继续使用 WordNet 补全约 1 万个新增单词的英文定义。
-- 2017-3-22 使用 NodeBox 校对完成所有副词和形容词。
-- 2017-3-21 使用 NodeBox 校对完所有动词，并且添加动词各种时态。
-
-## Applications
-
-[T.vim](https://github.com/sicong-li/T.vim) vim 的翻译插件。
-[Trans.nvim](https://github.com/JuanZoran/Trans.nvim) neovim 的翻译插件。
-
+压缩档里含有中文文件名的文件，Mac OS X / Linux 用户解压请注意编码。
