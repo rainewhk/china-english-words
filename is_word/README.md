@@ -3,6 +3,19 @@
 > 仓库路径：`is_word/`  
 > 文档版本：基于仓库 `is_word/` 与 `middle_school/` 当前代码撰写。
 
+```
+https://github.com/dwyl/english-words
+words.txt
+read_english_dictionary.py
+
+https://github.com/mwiens91/english-words-py
+read_english_dictionary.py
+
+https://www.gutenberg.org/files/3201/files/
+https://pypi.org/project/moby-dict/
+single.txt
+```
+
 ## 一、模块概述
 
 `is_word` 是一个**纯判定型（bool）英文词库**封装包，用来回答一个问题：
