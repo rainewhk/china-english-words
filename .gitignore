@@ -182,3 +182,5 @@ cython_debug/
 
 middle_school/books_junior/
 middle_school/books_senior/
+ydschool_dict/dict/
+ydschool_dict/raw_zips/
