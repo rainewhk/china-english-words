@@ -10,6 +10,7 @@ dependencies = [
     "pattern>=0.0.1a0",
     "pymupdf>=1.27.2.3",
     "pypdf>=6.12.1",
+    "reportlab>=5.0.1",
     "requests>=2.34.2",
     "spacy>=3.8.14",
     "stanfordnlp>=0.2.0",
