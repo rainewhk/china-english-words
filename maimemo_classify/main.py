@@ -3,12 +3,14 @@ import subprocess
 import shutil
 import os
 from pathlib import Path
+from classify import classify_exported_files
 
 
 def force_rmtree(path):
     def onerror(func, path, exc_info):
         os.chmod(path, 0o777)
         func(path)
+
     shutil.rmtree(path, onerror=onerror)
 
 
@@ -27,9 +29,23 @@ def main():
         if repo_dir.exists():
             force_rmtree(repo_dir)
 
-        subprocess.run(["git", "clone", "--filter=blob:none", "--sparse", "--depth=1",
-                       "https://github.com/busiyiworld/maimemo-export.git", str(repo_dir)], check=True)
-        subprocess.run(["git", "sparse-checkout", "set", "exported/word"], cwd=str(repo_dir), check=True)
+        subprocess.run(
+            [
+                "git",
+                "clone",
+                "--filter=blob:none",
+                "--sparse",
+                "--depth=1",
+                "https://github.com/busiyiworld/maimemo-export.git",
+                str(repo_dir),
+            ],
+            check=True,
+        )
+        subprocess.run(
+            ["git", "sparse-checkout", "set", "exported/word"],
+            cwd=str(repo_dir),
+            check=True,
+        )
         # subprocess.run(["git", "checkout"], cwd=str(repo_dir), check=True)
 
         word_src = repo_dir / "exported" / "word"
@@ -42,7 +58,7 @@ def main():
         force_rmtree(repo_dir)
 
     if update_success or not args.update:
-        print("占位行为执行")
+        classify_exported_files()
 
 
 if __name__ == "__main__":

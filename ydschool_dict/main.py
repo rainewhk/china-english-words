@@ -45,17 +45,33 @@ DEFAULT_HEADERS = {
 
 # 法语/特殊重音字母转换表
 FR_EN_MAP = [
-    ("é", "e"), ("ê", "e"), ("è", "e"), ("ë", "e"),
-    ("à", "a"), ("â", "a"), ("ç", "c"),
-    ("î", "i"), ("ï", "i"),
+    ("é", "e"),
+    ("ê", "e"),
+    ("è", "e"),
+    ("ë", "e"),
+    ("à", "a"),
+    ("â", "a"),
+    ("ç", "c"),
+    ("î", "i"),
+    ("ï", "i"),
     ("ô", "o"),
-    ("ù", "u"), ("û", "u"), ("ü", "u"),
+    ("ù", "u"),
+    ("û", "u"),
+    ("ü", "u"),
     ("ÿ", "y"),
-    ("É", "E"), ("Ê", "E"), ("È", "E"), ("Ë", "E"),
-    ("À", "A"), ("Â", "A"), ("Ç", "C"),
-    ("Î", "I"), ("Ï", "I"),
+    ("É", "E"),
+    ("Ê", "E"),
+    ("È", "E"),
+    ("Ë", "E"),
+    ("À", "A"),
+    ("Â", "A"),
+    ("Ç", "C"),
+    ("Î", "I"),
+    ("Ï", "I"),
     ("Ô", "O"),
-    ("Ù", "U"), ("Û", "U"), ("Ü", "U"),
+    ("Ù", "U"),
+    ("Û", "U"),
+    ("Ü", "U"),
     ("Ÿ", "Y"),
 ]
 
@@ -75,7 +91,7 @@ def fetch_book_list() -> list[dict]:
     req = urllib.request.Request(API_PARAM_URL, headers=DEFAULT_HEADERS)
     with urllib.request.urlopen(req, timeout=15) as resp:
         data = json.loads(resp.read().decode("utf-8"))
-    
+
     book_list = data["data"]["normalBooks"]["bookList"]
     book_ids = [b["id"] for b in book_list]
     print(f"      获取到 {len(book_ids)} 本词书 ID")
@@ -98,7 +114,7 @@ def fetch_book_list() -> list[dict]:
     )
     with urllib.request.urlopen(req_info, timeout=20) as resp:
         info_data = json.loads(resp.read().decode("utf-8"))
-    
+
     books_info = info_data["data"]["normalBooksInfo"]
     print(f"      成功获取 {len(books_info)} 本词书的元数据与下载地址")
     return books_info
@@ -124,13 +140,16 @@ def find_or_download_zip(book: dict, force_download: bool = False) -> Path:
     # 本地不存在则从网络下载
     print(f"      正在下载: {book['title']} ({filename}) ...")
     req = urllib.request.Request(url, headers=DEFAULT_HEADERS)
-    with urllib.request.urlopen(req, timeout=30) as resp, open(target_path, "wb") as out_f:
+    with (
+        urllib.request.urlopen(req, timeout=30) as resp,
+        open(target_path, "wb") as out_f,
+    ):
         while True:
             chunk = resp.read(65536)
             if not chunk:
                 break
             out_f.write(chunk)
-    
+
     return target_path
 
 
@@ -189,7 +208,9 @@ def get_merged_title(book: dict) -> str:
 def main():
     parser = argparse.ArgumentParser(description="有道背单词词库纯净单词导出工具")
     parser.add_argument(
-        "--force-download", action="store_true", help="强制从网络重新下载全部 ZIP 离线包"
+        "--force-download",
+        action="store_true",
+        help="强制从网络重新下载全部 ZIP 离线包",
     )
     parser.add_argument(
         "--output-dir",
@@ -253,18 +274,22 @@ def main():
             for w in unique_words:
                 f.write(f"{w}\n")
 
-        summary_records.append({
-            "filename": txt_filename,
-            "merged_title": merged_title,
-            "book_count": len(items),
-            "source_ids": ", ".join(source_bids),
-            "word_count": len(unique_words),
-            "file_size": txt_path.stat().st_size,
-        })
+        summary_records.append(
+            {
+                "filename": txt_filename,
+                "merged_title": merged_title,
+                "book_count": len(items),
+                "source_ids": ", ".join(source_bids),
+                "word_count": len(unique_words),
+                "file_size": txt_path.stat().st_size,
+            }
+        )
 
     # 输出统计表格
     print("\n" + "=" * 80)
-    print(f"{'序号':<4} | {'词表文件名':<22} | {'词数':>6} | {'包含书数':>4} | {'原始 ID 列表'}")
+    print(
+        f"{'序号':<4} | {'词表文件名':<22} | {'词数':>6} | {'包含书数':>4} | {'原始 ID 列表'}"
+    )
     print("-" * 80)
     for idx, rec in enumerate(summary_records, 1):
         print(
@@ -273,7 +298,9 @@ def main():
         )
     print("=" * 80)
     total_words = sum(r["word_count"] for r in summary_records)
-    print(f"全部处理完成！共生成 {len(summary_records)} 个纯净词表，总计包含 {total_words} 词次（各表内去重）。")
+    print(
+        f"全部处理完成！共生成 {len(summary_records)} 个纯净词表，总计包含 {total_words} 词次（各表内去重）。"
+    )
     print(f"导出路径: {out_dir.resolve()}\n")
 
 

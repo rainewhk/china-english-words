@@ -7,6 +7,7 @@ single set of unique words. Downloaded files are cached locally to avoid
 repeated downloads. Retries are built in for robustness. The file list
 itself is also cached to allow completely offline use after the first run.
 """
+
 import os
 import pathlib
 import re
@@ -102,7 +103,7 @@ class WordListCorpusReader:
             except requests.RequestException as e:
                 last_exception = e
                 if attempt < _MAX_RETRIES:
-                    time.sleep(2 ** attempt)
+                    time.sleep(2**attempt)
 
         raise RuntimeError(
             f"Failed to download {url} after {_MAX_RETRIES} attempts"
@@ -161,7 +162,9 @@ class WordListCorpusReader:
         return words
 
 
-def words(cache_dir: str = _DEFAULT_CACHE_DIR, force_download: bool = False) -> Set[str]:
+def words(
+    cache_dir: str = _DEFAULT_CACHE_DIR, force_download: bool = False
+) -> Set[str]:
     """
     Download (if needed) the Moby corpus and return all unique words.
 

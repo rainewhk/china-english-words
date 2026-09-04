@@ -1,17 +1,19 @@
 from extract_text import extract_text
 from extract_words import extract_words
 
-root_name = 'books_junior'
+root_name = "books_junior"
+
 
 def exec_pdf(pdf_name):
-    pdf_path = f'{root_name}/{pdf_name}.pdf'
-    txt_path = f'{root_name}/{pdf_name}.txt'
-    json_path = f'{root_name}/{pdf_name}'
+    pdf_path = f"{root_name}/{pdf_name}.pdf"
+    txt_path = f"{root_name}/{pdf_name}.txt"
+    json_path = f"{root_name}/{pdf_name}"
     extract_text(pdf_path, txt_path)
     words_set = extract_words(txt_path, json_path)
     return words_set
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     # 补充新的需要手动设置
     file_name_list = [
         # # 人教版
@@ -83,13 +85,13 @@ if __name__ == '__main__':
     # 从 words_set.txt 恢复状态
 
     for file_name in file_name_list:
-        pdf_path = f'{root_name}/{file_name}.pdf'
-        txt_path = f'{root_name}/{file_name}.txt'
-        json_path = f'{root_name}/{file_name}'
+        pdf_path = f"{root_name}/{file_name}.pdf"
+        txt_path = f"{root_name}/{file_name}.txt"
+        json_path = f"{root_name}/{file_name}"
         # extract_text(pdf_path, txt_path)
-        print(file_name, end='...')
+        print(file_name, end="...")
         extract_words(txt_path, json_path)
-        print(' ok')
+        print(" ok")
         # words_set = set()
         # with open('words_set.txt', 'r', encoding='utf-8') as f:
         #     for line in f:

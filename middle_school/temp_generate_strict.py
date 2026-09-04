@@ -1,21 +1,22 @@
 import json
 from pathlib import Path
 
-root_name_list = ['books_junior', 'books_senior']
+root_name_list = ["books_junior", "books_senior"]
 
 from is_word import is_word_strict
+
 
 def main():
     words_set = set()
     total_files_sum = 0
-    
+
     for root_name in root_name_list:
         books_dir = Path(root_name)
         if not books_dir.exists():
             print(f"目录不存在: {books_dir}")
             continue
 
-        jsonl_files = list(books_dir.glob('*.jsonl'))
+        jsonl_files = list(books_dir.glob("*.jsonl"))
         if not jsonl_files:
             print(f"在 {books_dir} 下未找到 .jsonl 文件")
             continue
@@ -24,15 +25,15 @@ def main():
 
         for i, filepath in enumerate(jsonl_files, 1):
             count = 0
-            with open(filepath, 'r', encoding='utf-8') as f:
+            with open(filepath, "r", encoding="utf-8") as f:
                 for line in f:
                     line = line.strip()
                     if not line:
                         continue
                     try:
                         item = json.loads(line)
-                        lemma = item.get('lemma', '')
-                        text = item.get('text', '')
+                        lemma = item.get("lemma", "")
+                        text = item.get("text", "")
                         if is_word_strict(lemma):
                             words_set.add(lemma)
                             count += 1
@@ -46,14 +47,14 @@ def main():
 
     # 排序并写入文件
     sorted_words = sorted(words_set)
-    output_path = Path('words_set_strict.txt')
-    with open(output_path, 'w', encoding='utf-8') as f:
+    output_path = Path("words_set_strict.txt")
+    with open(output_path, "w", encoding="utf-8") as f:
         for word in sorted_words:
-            f.write(word + '\n')
+            f.write(word + "\n")
 
     print(f"\n总计: 从 {total_files_sum} 个文件提取 {len(words_set)} 个唯一单词")
     print(f"已排序写入: {output_path}")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
