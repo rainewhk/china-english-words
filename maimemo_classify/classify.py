@@ -15,10 +15,11 @@ def get_target_dir(filename: str) -> str | None:
     """根据文件名判断目标文件夹名称，方便后续随时加 if 规则"""
     if filename in SENIOR_OLD_SET:
         return "高中（旧）"
+    if "选修" in filename:
+        return "高中（选）"
     if (
         "高中" in filename
         or "初中" in filename
-        or "选修" in filename
         or "年级" in filename
         or "高一" in filename
         or "高二" in filename
